@@ -1,15 +1,27 @@
+import jakarta.xml.bind.annotation.*;
+
 /**
  * Clase que contiene la información de un Partido
  */
+@XmlRootElement(name = "Game")
 public class Game {
-    private final int id;
-    private final String date;
-    private final String teamVisitor;
-    private final int pointsVisitor;
-    private final String teamLocal;
-    private final int pointsLocal;
-    private final String arena;
-    private final String link;
+    @XmlAttribute
+    private int id;
+    @XmlElement
+    private String date;
+    @XmlElement
+    private String teamVisitor;
+    @XmlElement
+    private int pointsVisitor;
+    @XmlElement
+    private String teamLocal;
+    @XmlElement
+    private int pointsLocal;
+    @XmlElement
+    private String arena;
+    @XmlElement
+    private String link;
+
 
     /**
      * Contructor de la Clase Game. Contiene la definición de las propiedades de la clase.
@@ -34,6 +46,12 @@ public class Game {
     }
 
     /**
+     * Constructor para JAXB
+     */
+    public Game() {
+    }
+
+    /**
      * Devuelve como cadena de caracteres los atributos de la clase.
      * @return Cadena con los atributos.
      */
@@ -50,5 +68,4 @@ public class Game {
                 ", link='" + link + '\'' +
                 '}';
     }
-
 }

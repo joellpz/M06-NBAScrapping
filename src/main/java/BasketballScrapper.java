@@ -1,5 +1,10 @@
 
+import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
+import jakarta.xml.bind.JAXBContext;
+import jakarta.xml.bind.JAXBException;
+import jakarta.xml.bind.Marshaller;
+
 import org.jetbrains.annotations.NotNull;
 import org.openqa.selenium.*;
 import org.openqa.selenium.NoSuchElementException;
@@ -7,34 +12,38 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.w3c.dom.Attr;
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.Reader;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.*;
 
 
 /**
- * Classe que contiene los métodos para recoger lka información de nuestra WEB.
+ * Clase que contiene los métodos para recoger lka información de nuestra WEB.
  */
 public class BasketballScrapper {
+    /**
+     * Driver Principal Scrapper
+     */
     protected WebDriver basketDriver;
+    /**
+     * Driver Auxiliar Scrapper
+     */
     protected WebDriver auxDriver;
+    /**
+     * Condiciones para Driver
+     */
     public WebDriverWait myWaitVar;
 
     /**
      * Constructor de la herramienta de Scrapping
+     *
      * @param basketDriver WebDriver
-     * @param myWaitVar WebDriverWait
+     * @param myWaitVar    WebDriverWait
      */
     public BasketballScrapper(WebDriver basketDriver, WebDriverWait myWaitVar) {
         this.basketDriver = basketDriver;
@@ -47,7 +56,7 @@ public class BasketballScrapper {
     public void start() {
         LinkedHashMap<String, String> listMenu = getMenu();
         getPlayers(listMenu.get("Players"));
-        //getSeasons(listMenu.get("Seasons"));
+        getSeasons(listMenu.get("Seasons"));
         getTeams(listMenu.get("Teams"));
         auxDriver.quit();
     }
@@ -76,6 +85,7 @@ public class BasketballScrapper {
     public void getPlayers(String playerMenuLink) {
         ArrayList<String> playerLinks = new ArrayList<>();
         ArrayList<String[]> playerList = new ArrayList<>();
+        ArrayList<Player> playerListObj = new ArrayList<>();
         ArrayList<String[]> seasonsPerPlayer = new ArrayList<>();
 
         basketDriver.navigate().to(playerMenuLink);
@@ -99,19 +109,18 @@ public class BasketballScrapper {
 
             //Llamamos a la Función GetPlayerInfo para recoger la información de cada jugador.
             playerLinks.forEach(link -> getPlayerInfo(link).forEach((k, v) -> {
+                playerListObj.add(k);
                 playerList.add(k.toOpenCSV());
                 seasonsPerPlayer.addAll(v);
             }));
             playerLinks.clear();
         }
 
-        //TODO player.csv
-        //TODO playerSeasons.csv
+
         //Llamamos a las funciones para escribir los valores de los arrays en ficheros.
         writeToCSV(playerList, "players.csv");
-        writeToXML(playerList, "players.xml");
+        writeToXML(playerListObj, "players.xml");
         writeToCSV(seasonsPerPlayer, "playerSeasons.csv");
-        writeToXML(seasonsPerPlayer, "playerSeasons.xml");
 
         System.out.println("---- Players Finished ----");
     }
@@ -239,8 +248,6 @@ public class BasketballScrapper {
     }
 
 
-    //TODO CHECK que funciona y falta comentar.
-
     /**
      * Recoge todos los datos sobre las diferentes Temporadas que se han realizado en la NBA.
      *
@@ -249,13 +256,13 @@ public class BasketballScrapper {
     public void getSeasons(String seasonsMenuLink) {
         ArrayList<String[]> listSeason = new ArrayList<>();
         ArrayList<String[]> listSeasonTeam = new ArrayList<>();
-
         ArrayList<Season> listObjSeasons = new ArrayList<>();
-        String[] statsSeason = new String[10];
+
         final int[] cont = {0};
 
         basketDriver.navigate().to(seasonsMenuLink);
         basketDriver.findElements(By.xpath("//table[@id='stats']/tbody/tr")).forEach(tr -> {
+            String[] statsSeason = new String[10];
             cont[0] = 1;
             tr.findElements(By.tagName("th")).forEach(th -> th.findElements(By.tagName("a")).forEach(a -> statsSeason[0] = a.getAttribute("href")));
             tr.findElements(By.xpath("*")).forEach(stat -> {
@@ -268,14 +275,15 @@ public class BasketballScrapper {
 
         });
         listObjSeasons.remove(0);
-        listObjSeasons.forEach(s -> listSeasonTeam.addAll(getTeamSeason(s.getLink(), s.getYear())));
+        listObjSeasons.forEach(s -> {
+            if (s.getLeague().equals("NBA")) {
+                listSeasonTeam.addAll(getTeamSeason(s.getLink(), s.getYear()));
+            }
+        });
 
-        //TODO seasons.csv
-        //TODO seasonsPerTeam.csv
         writeToCSV(listSeason, "seasons.csv");
-        writeToXML(listSeason, "seasons.xml");
+        writeToXML(listObjSeasons, "seasons.xml");
         writeToCSV(listSeasonTeam, "seasonsPerTeam.csv");
-        writeToXML(listSeasonTeam, "seasonsPerTeam.xml");
 
         basketDriver.navigate().to(listObjSeasons.get(1).getLink());
         basketDriver.findElement(By.xpath("//*[@id='inner_nav']/ul/li[9]/a")).click();
@@ -283,7 +291,6 @@ public class BasketballScrapper {
 
     }
 
-    //TODO Comprobar y Comentar
 
     /**
      * Recoge toda la información sobre las estadísticas de los equipos que participaron en la temporada.
@@ -293,36 +300,62 @@ public class BasketballScrapper {
      * @return Devuelve un ArrayList (filas) de un String[] (columnas).
      */
     public @NotNull ArrayList<String[]> getTeamSeason(String seasonLink, String seasonYear) {
+        JavascriptExecutor js = (JavascriptExecutor) basketDriver;
         ArrayList<String[]> seasonTeamStats = new ArrayList<>();
         final int[] cont = {0};
 
         basketDriver.navigate().to(seasonLink);
+        System.out.println(seasonYear);
+        int year = Integer.parseInt(seasonYear.substring(0, seasonYear.indexOf("-")));
+        WebElement wins;
 
-        basketDriver.findElement(By.id("confs_standings_E")).findElements(By.xpath("tbody/tr")).forEach(tr -> {
-            String[] teamStats = new String[10];
-            teamStats[0] = seasonYear;
-            teamStats[9] = "Eastern";
-            cont[0] = 1;
-            tr.findElements(By.xpath("*")).forEach(stat -> {
-                if (stat.getText().equals("—")) teamStats[cont[0]] = "none";
-                else teamStats[cont[0]] = stat.getText();
-                cont[0]++;
-            });
-            seasonTeamStats.add(teamStats);
-        });
-        basketDriver.findElement(By.id("confs_standings_W")).findElements(By.xpath("tbody/tr")).forEach(tr -> {
-            String[] teamStats = new String[10];
-            teamStats[0] = seasonYear;
-            teamStats[9] = "Western";
-            cont[0] = 1;
-            tr.findElements(By.xpath("*")).forEach(stat -> {
-                if (stat.getText().equals("—")) teamStats[cont[0]] = "none";
-                else teamStats[cont[0]] = stat.getText();
-                cont[0]++;
-            });
-            seasonTeamStats.add(teamStats);
-        });
+        if (year <= 1969) {
+            wins = basketDriver.findElement(By.xpath("//table[@id='divs_standings_']/thead//th[@data-tip='Wins']"));
+            js.executeScript("arguments[0].click();", wins);
 
+            basketDriver.findElement(By.id("divs_standings_")).findElements(By.xpath("tbody/tr[@class='full_table']")).forEach(tr -> {
+                String[] teamStats = new String[10];
+                teamStats[0] = seasonYear;
+                teamStats[9] = "none";
+                cont[0] = 1;
+                tr.findElements(By.xpath("*")).forEach(stat -> {
+                    if (stat.getText().equals("—")) teamStats[cont[0]] = "none";
+                    else teamStats[cont[0]] = stat.getText();
+                    cont[0]++;
+                });
+                seasonTeamStats.add(teamStats);
+            });
+        } else {
+            wins = basketDriver.findElement(By.xpath("//table[@id='divs_standings_E']/thead//th[@data-stat='wins']"));
+            js.executeScript("arguments[0].click();", wins);
+            wins = basketDriver.findElement(By.xpath("//table[@id='divs_standings_W']/thead//th[@data-stat='wins']"));
+            js.executeScript("arguments[0].click();", wins);
+
+            basketDriver.findElement(By.id("divs_standings_E")).findElements(By.xpath("tbody/tr[@class='full_table']")).forEach(tr -> {
+                String[] teamStats = new String[10];
+                teamStats[0] = seasonYear;
+                teamStats[9] = "Eastern";
+                cont[0] = 1;
+                tr.findElements(By.xpath("*")).forEach(stat -> {
+                    if (stat.getText().equals("—")) teamStats[cont[0]] = "none";
+                    else teamStats[cont[0]] = stat.getText();
+                    cont[0]++;
+                });
+                seasonTeamStats.add(teamStats);
+            });
+            basketDriver.findElement(By.id("divs_standings_W")).findElements(By.xpath("tbody/tr[@class='full_table']")).forEach(tr -> {
+                String[] teamStats = new String[10];
+                teamStats[0] = seasonYear;
+                teamStats[9] = "Western";
+                cont[0] = 1;
+                tr.findElements(By.xpath("*")).forEach(stat -> {
+                    if (stat.getText().equals("—")) teamStats[cont[0]] = "none";
+                    else teamStats[cont[0]] = stat.getText();
+                    cont[0]++;
+                });
+                seasonTeamStats.add(teamStats);
+            });
+        }
         return seasonTeamStats;
     }
 
@@ -384,16 +417,16 @@ public class BasketballScrapper {
                 teamListObj.add(new Team(strings[0], strings[1], Integer.parseInt(strings[2]), Integer.parseInt(strings[3]), Integer.parseInt(strings[4]), Integer.parseInt(strings[5]), Integer.parseInt(strings[6]), Integer.parseInt(strings[7]), Conference.WESTERN));
         });
 
-        //TODO teams.csv
         writeToCSV(teamList, "teams.csv");
-        writeToXML(teamList, "teams.xml");
+        writeToXML(teamListObj, "teams.xml");
         auxDriver.quit();
     }
 
     /**
-     * Determina a partir de un path la URL generica y posteriormente recoge por cada PlayOff
+     * Determina a partir de un path la URL genérica y posteriormente recoge por cada PlayOff
      * los partidos realizados.
-     * @param path URL generica de partidos de PlayOff
+     *
+     * @param path URL genérica de partidos de PlayOff
      */
     public void getGamesURL(@NotNull String path) {
         auxDriver = new FirefoxDriver(new FirefoxOptions());
@@ -405,7 +438,7 @@ public class BasketballScrapper {
         ArrayList<String[]> playersPerGame = new ArrayList<>();
 
         final int[] cont = {0, 1};
-        int minYear = 2015; //Año mínimo 1950 ;
+        int minYear = 2021; //Año mínimo 1950 ;
         int maxYear = Integer.parseInt(path.substring(path.indexOf("_") + 1, path.lastIndexOf("_")));
         for (int i = minYear; i <= maxYear; i++) {
             gamesLinks.add(path.replace(maxYear + "", i + ""));
@@ -434,19 +467,19 @@ public class BasketballScrapper {
             });
         });
 
-        //TODO games.csv
-        //TODO playerPerGame.csv
+
         writeToCSV(gamesInfo, "games.csv");
-        writeToXML(gamesInfo, "games.xml");
+        writeToXML(gamesInfoObj, "games.xml");
         writeToCSV(playersPerGame, "playerPerGame.csv");
-        writeToXML(playersPerGame, "playerPerGame.xml");
+
         auxDriver.quit();
     }
 
     /**
-     * Recoge la información sobre las estadisticas de cada jugador en el partido.
+     * Recoge la información sobre las estadísticas de cada jugador en el partido.
+     *
      * @param gameLink URL del Partido
-     * @param idGame ID del Partido
+     * @param idGame   id del Partido
      * @return Array (filas) de String[] (columnas) con cada jugador y su info.
      */
     public ArrayList<String[]> getPlayersForGame(String gameLink, String idGame) {
@@ -479,13 +512,13 @@ public class BasketballScrapper {
     }
 
     /**
-     * Imprime linea por linea String[], separando por comas cada posición.
+     * Imprime linea por línea String[], separando por comas cada posición.
+     *
      * @param list Lista Strings[]
      * @param path Dirección donde Guardarla
      */
     public static void writeToCSV(ArrayList<String[]> list, @NotNull String path) {
         try {
-            //TODO WRITER
             String[] intro;
             switch (path) {
                 case "players.csv" ->
@@ -498,19 +531,20 @@ public class BasketballScrapper {
                                 "Offensive Rebounds", "Defensive Rebounds", "Total Rebounds", "Assists", "Steals",
                                 "Blocks", "Turnovers", "Fouls", "Points", "Triples Dobles"};
                 case "seasons.csv" ->
-                        intro = new String[]{"Years", "League", "Champion", "MVP", "RookieOTY", "Points Leader", "Rebounds Leader", "Assists Leader", "Win Shares Leader", "Link"};
-                case "seasonsPerTeam.csv" -> intro = new String[]{};
+                        intro = new String[]{"Link", "Years", "League", "Champion", "MVP", "RookieOTY", "Points Leader", "Rebounds Leader", "Assists Leader", "Win Shares Leader"};
+                case "seasonsPerTeam.csv" ->
+                        intro = new String[]{"Season", "Team", "Wins", "Loses", "Win Rate", "Games Behind", "Points Per Game", "Opponents PTSxGame", "Team Rating", "Conference"};
                 case "teams.csv" ->
                         intro = new String[]{"Name", "Location", "Games", "Wins", "Loses", "Playoff Appearances", "Conference Champions", "NBA Champions", "Conference"};
                 case "games.csv" ->
                         intro = new String[]{"Game ID", "Date", "Visitor", "Points Visitor", "Local", "Points Local", "Arena", "Link"};
                 case "playerPerGame.csv" ->
-                        intro = new String[]{"Game ID", "Team ID", "Player", "Minutes Played", "Field Goals", "FG Attempts", "FG Perc", "3P Field Goals",
-                                "3PFG Attempts", "3PFG Perc", "Free Throws", "FT Attempts", "FT Perc", "Offensive Rebounds", "Defensive Rebounds"
+                        intro = new String[]{"Game ID", "Team ID", "Player", "Minutes Played", "Field Goals", "FG Attempts", "FG %", "3P Field Goals",
+                                "3PFG Attempts", "3PFG %", "Free Throws", "FT Attempts", "FT %", "Offensive Rebounds", "Defensive Rebounds"
                                 , "Total Rebounds", "Assists", "Steals", "Blocks", "Turnovers", "Personal Fouls", "Points", "Punctuation"};
                 default -> intro = new String[]{"Not defined..."};
             }
-            CSVWriter writer = new CSVWriter(new FileWriter("info/CSV/" + path));
+            CSVWriter writer = new CSVWriter(new FileWriter("data/CSV/" + path));
             writer.writeNext(intro);
             writer.writeAll(list);
             System.out.println("********Import Finished*****+");
@@ -521,162 +555,88 @@ public class BasketballScrapper {
     }
 
     /**
+     * Leer archivo CVS para pasarlo a List
+     *
+     * @param path Path Archivo
+     * @return List de String[]
+     */
+
+    /* Si queremos leer algo y transformarlo en un ArrayList de Objetos.
+    List<String[]> playerList = readCSV("seasons.csv");
+    ArrayList<Season> playerListObj = new ArrayList<>();
+        playerList.forEach(player -> playerListObj.add(new Season(player[1],player[2],player[3],player[4],player[5],player[6],player[7],player[8],player[9],player[0])));
+    writeToXML(playerListObj,"seasons.xml");*/
+    public static List<String[]> readCSV(@NotNull String path) {
+        try (Reader reader = Files.newBufferedReader(Path.of("data/CSV/" + path))) {
+            try (CSVReader csvReader = new CSVReader(reader)) {
+                return csvReader.readAll();
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    /**
      * Imprime en formato XML la lista, partiendo de un padre (NBA) y luego de hijos, estos dependientes del contenido
      * de la lista.
+     *
      * @param list Lista de String[]
-     * @param path Dirreción donde Guardar
+     * @param path Dirección donde Guardar
      */
-    public static void writeToXML(ArrayList<String[]> list, String path) {
+    public static void writeToXML(ArrayList<?> list, String path) {
         try {
-            String[] intro;
-            DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();
-            DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();
-            Document document = documentBuilder.newDocument();
-
-            // Root element
-            Element rootElement = document.createElement("NBA");
-            document.appendChild(rootElement);
+            File file = new File("data/XML/" + path);
+            JAXBContext jaxbContext;
 
             switch (path) {
-                case "player.xml" -> {
-                    intro = new String[]{"Name", "Position", "College", "Draft Team", "Draft Position", "Birthday", "Age", "Draft Year", "Career Experience"};
-                    // player element
-                    list.forEach(strings -> {
-                        Element parent = document.createElement("Player");
-                        rootElement.appendChild(parent);
-                        for (int i = 0; i < intro.length; i++) {
-                            Element newElement = document.createElement(intro[i]);
-                            newElement.appendChild(document.createTextNode(strings[i]));
-                            parent.appendChild(newElement);
-                        }
-                    });
+                case "players.xml" -> {
+                    jaxbContext = JAXBContext.newInstance(NBAPlayers.class);
+                    NBAPlayers nbaPlayers = new NBAPlayers();
+                    nbaPlayers.setTeams((List<Player>) list);
+
+                    Marshaller jaxbMarshaller = jaxbContext.createMarshaller();
+                    jaxbMarshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+                    jaxbMarshaller.marshal(nbaPlayers, file);
+                    jaxbMarshaller.marshal(nbaPlayers, System.out);
                 }
-                case "playerSeasons.xml" -> {
-                    intro = new String[]{"Player", "Season", "Age", "Team", "League", "Position", "Games", "Games Starter",
-                            "Minutes Played", "Field Goals", "Field Attempts", "Field Percent", "3PTS Goals",
-                            "3PTS Attempts", "3PTS Percent", "2PTS Goals", "2PTS Attempts", "2PTS Percent",
-                            "Effective Goal Percent", "Free Throw", "Free Throw Attempts", "Free Throw Percent",
-                            "Offensive Rebounds", "Defensive Rebounds", "Total Rebounds", "Assists", "Steals",
-                            "Blocks", "Turnovers", "Fouls", "Points", "Triples Dobles"};
-                    list.forEach(strings -> {
-                        Element parent = document.createElement(intro[0]);
-                        Attr attr = document.createAttribute("name");
-                        attr.setValue(strings[0]);
-                        parent.setAttributeNode(attr);
-                        rootElement.appendChild(parent);
 
-                        Element season = document.createElement(intro[1]);
-                        Attr years = document.createAttribute("years");
-                        years.setValue(strings[1]);
-                        season.setAttributeNode(years);
-                        parent.appendChild(season);
-
-                        for (int i = 2; i < intro.length; i++) {
-                            Element newElement = document.createElement(intro[i]);
-                            newElement.appendChild(document.createTextNode(strings[i]));
-                            season.appendChild(newElement);
-                        }
-
-                    });
-                }
                 case "seasons.xml" -> {
-                    intro = new String[]{"Years", "League", "Champion", "MVP", "RookieOTY", "Points Leader", "Rebounds Leader", "Assists Leader", "Win Shares Leader", "Link"};
-                    list.forEach(strings -> {
-                        Element parent = document.createElement("Season");
-                        Attr attr = document.createAttribute("year");
-                        attr.setValue(strings[0]);
-                        parent.setAttributeNode(attr);
-                        rootElement.appendChild(parent);
+                    jaxbContext = JAXBContext.newInstance(NBASeasons.class);
+                    NBASeasons nbaSeasons = new NBASeasons();
+                    nbaSeasons.setTeams((List<Season>) list);
 
-                        for (int i = 1; i < intro.length; i++) {
-                            Element newElement = document.createElement(intro[i]);
-                            newElement.appendChild(document.createTextNode(strings[i]));
-                            parent.appendChild(newElement);
-                        }
-                    });
+                    Marshaller jaxbMarshaller = jaxbContext.createMarshaller();
+                    jaxbMarshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+                    jaxbMarshaller.marshal(nbaSeasons, file);
+                    jaxbMarshaller.marshal(nbaSeasons, System.out);
                 }
-                //TODO ESTO
-                case "seasonsPerTeam.xml" -> {
-                    intro = new String[]{};
-                    list.forEach(strings -> {
-                        Element parent = document.createElement("Player");
-                        rootElement.appendChild(parent);
-                        for (int i = 0; i < intro.length; i++) {
-                            Element newElement = document.createElement(intro[i]);
-                            newElement.appendChild(document.createTextNode(strings[i]));
-                        }
-                    });
-                }
+
                 case "teams.xml" -> {
-                    intro = new String[]{"Name", "Location", "Games", "Wins", "Loses", "Playoff Appearances", "Conference Champions", "NBA Champions", "Conference"};
-                    list.forEach(strings -> {
-                        Element parent = document.createElement("Team");
-                        rootElement.appendChild(parent);
+                    jaxbContext = JAXBContext.newInstance(NBATeams.class);
+                    NBATeams nbaTeams = new NBATeams();
+                    nbaTeams.setTeams((List<Team>) list);
 
-                        for (int i = 0; i < intro.length; i++) {
-                            Element newElement = document.createElement(intro[i]);
-                            newElement.appendChild(document.createTextNode(strings[i]));
-                            parent.appendChild(newElement);
-                        }
-                    });
+                    Marshaller jaxbMarshaller = jaxbContext.createMarshaller();
+                    jaxbMarshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+                    jaxbMarshaller.marshal(nbaTeams, file);
+                    jaxbMarshaller.marshal(nbaTeams, System.out);
                 }
+
                 case "games.xml" -> {
-                    intro = new String[]{"id", "Date", "Visitor", "Points Visitor", "Local", "Points Local", "Arena", "Link"};
-                    list.forEach(strings -> {
-                        Element parent = document.createElement("Game");
-                        Attr attr = document.createAttribute(intro[0]);
-                        attr.setValue(strings[0]);
-                        parent.setAttributeNode(attr);
-                        rootElement.appendChild(parent);
+                    jaxbContext = JAXBContext.newInstance(NBAGames.class);
+                    NBAGames nbaGames = new NBAGames();
+                    nbaGames.setTeams((List<Game>) list);
 
-                        for (int i = 1; i < intro.length; i++) {
-                            Element newElement = document.createElement(intro[i]);
-                            newElement.appendChild(document.createTextNode(strings[i]));
-                            parent.appendChild(newElement);
-                        }
-                    });
+                    Marshaller jaxbMarshaller = jaxbContext.createMarshaller();
+                    jaxbMarshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+                    jaxbMarshaller.marshal(nbaGames, file);
+                    jaxbMarshaller.marshal(nbaGames, System.out);
                 }
-                case "playerPerGame.xml" -> {
-                    intro = new String[]{"id", "Team ID", "Player", "Minutes Played", "Field Goals", "FG Attempts", "FG Perc", "3P Field Goals",
-                            "3PFG Attempts", "3PFG Perc", "Free Throws", "FT Attempts", "FT Perc", "Offensive Rebounds", "Defensive Rebounds"
-                            , "Total Rebounds", "Assists", "Steals", "Blocks", "Turnovers", "Personal Fouls", "Points", "Punctuation"};
-
-                    /*ArrayList<String[]> sameGame = new ArrayList<>();
-                    ArrayList<String[]> sameTeam = new ArrayList<>();
-                    for (int i = 0; i <= Integer.parseInt(list.get(list.size()-1)[0]); i++) {
-                        sameGame = (ArrayList<String[]>) list.clone();
-                        String finalI = i+"";
-                        sameGame.removeIf(strings -> !strings[0].equals(finalI));
-                        sameTeam = (ArrayList<String[]>) sameGame.clone();
-                    }*/
-
-                    list.forEach(strings -> {
-                        Element parent = document.createElement("Game");
-                        Attr attr = document.createAttribute(intro[0]);
-                        attr.setValue(strings[0]);
-                        parent.setAttributeNode(attr);
-                        rootElement.appendChild(parent);
-
-                        for (int i = 1; i < intro.length; i++) {
-                            Element newElement = document.createElement(intro[i]);
-                            newElement.appendChild(document.createTextNode(strings[i]));
-                            parent.appendChild(newElement);
-                        }
-                    });
-                }
-                default -> intro = new String[]{"Not defined..."};
             }
-
-            TransformerFactory transformerFactory = TransformerFactory.newInstance();
-            Transformer transformer = transformerFactory.newTransformer();
-
-            DOMSource source = new DOMSource(document);
-            StreamResult result = new StreamResult(new File("info/XML/" + path));
-            transformer.transform(source, result);
-
-        } catch (Exception e) {
-            e.printStackTrace();
+        } catch (JAXBException e) {
+            throw new RuntimeException(e);
         }
-
     }
 }

@@ -1,28 +1,34 @@
+import jakarta.xml.bind.annotation.XmlAccessType;
+import jakarta.xml.bind.annotation.XmlAccessorType;
+import jakarta.xml.bind.annotation.XmlRootElement;
+
 /**
  * Clase que contiene las propiedades de un Jugador.
  */
+@XmlRootElement(name = "Player")
+@XmlAccessorType(XmlAccessType.FIELD)
 public class Player {
 
-
-    private final String name;
-    private final String position;
-    private final String college;
-    private final String draftTeam;
-    private final String draftPos;
-    private final String born;
-    private final int age;
-    private final int draftYear;
-    private final int expCareer;
+    private String name;
+    private String position;
+    private String college;
+    private String draftTeam;
+    private String draftPos;
+    private String born;
+    private int age;
+    private int draftYear;
+    private int expCareer;
 
     /**
      * Permite definir los atributos de la clase
-     * @param name Nombre
-     * @param position Posicion
-     * @param college Universidad
+     *
+     * @param name      Nombre
+     * @param position  Posicion
+     * @param college   Universidad
      * @param draftTeam Equipo del Draft
-     * @param draftPos Posicion del Draft
-     * @param born Fecha Nacimiento
-     * @param age Edad
+     * @param draftPos  Posicion del Draft
+     * @param born      Fecha de Nacimiento
+     * @param age       Edad
      * @param draftYear Año del Draft
      * @param expCareer Carrera
      */
@@ -39,11 +45,9 @@ public class Player {
     }
 
     /**
-     * Devuelve el Nombre del Jugador
-     * @return Nombre
+     * Constructor para JAXB
      */
-    public String getName() {
-        return name;
+    public Player() {
     }
 
     /**
@@ -64,24 +68,23 @@ public class Player {
                 ", draftYear=" + draftYear +
                 ", expCareer=" + expCareer +
                 '}';
-        /*return name + ", " +
-                position + ", " +
-                college + ", " +
-                draftTeam + ", " +
-                draftPos + ", " +
-                born + ", " +
-                age + ", " +
-                draftYear + ", " +
-                expCareer;
-         */
     }
 
     /**
      * Devuelve los atributos en un formato util para imprimir con OpenCSV
+     *
      * @return Array de String
      */
     public String[] toOpenCSV() {
         return new String[]{name, position, college, draftTeam, draftPos, born, age + "", draftYear + "", expCareer + ""};
+    }
 
+    /**
+     * Devuelve el Nombre del Jugador
+     *
+     * @return Nombre
+     */
+    public String getName() {
+        return name;
     }
 }

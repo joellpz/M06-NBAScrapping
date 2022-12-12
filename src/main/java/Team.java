@@ -1,16 +1,22 @@
+import jakarta.xml.bind.annotation.XmlAccessType;
+import jakarta.xml.bind.annotation.XmlAccessorType;
+import jakarta.xml.bind.annotation.XmlRootElement;
+
 /**
  * Clase que permite definir las propiedades de un Equipo.
  */
+@XmlRootElement(name = "Team")
+@XmlAccessorType(XmlAccessType.FIELD)
 public class Team {
-    private final String name;
-    private final String location;
-    private final int games;
-    private final int wins;
-    private final int loses;
-    private final int playoffAppearances;
-    private final int conferenceChampions;
-    private final int championships;
-    private final Conference conference;
+    private String name;
+    private String location;
+    private int games;
+    private int wins;
+    private int loses;
+    private int playoffAppearances;
+    private int conferenceChampions;
+    private int championships;
+    private Conference conference;
 
     /**
      * Define atributos clase Team
@@ -37,6 +43,11 @@ public class Team {
         this.conference = conference;
     }
 
+    /**
+     * Constructor para JAXB
+     */
+    public Team() {
+    }
 
     /**
      * Devuelve como cadena de caracteres los atributos de la clase.

@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NBASeasons>
+    <Season year="2022-23">
+        <league>NBA</league>
+        <champion>none</champion>
+        <MVP>none</MVP>
+        <ROTY>none</ROTY>
+        <PPG_Leader>K. Durant (810)</PPG_Leader>
+        <RGP_Leader>I. Zubac (313)</RGP_Leader>
+        <APG_Leader>T. Haliburton (274)</APG_Leader>
+        <WS_Leader>A. Davis (4.7)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2023.html</link>
+    </Season>
+    <Season year="2021-22">
+        <league>NBA</league>
+        <champion>Golden State Warriors</champion>
+        <MVP>N. Jokić</MVP>
+        <ROTY>S. Barnes</ROTY>
+        <PPG_Leader>T. Young (2155)</PPG_Leader>
+        <RGP_Leader>N. Jokić (1019)</RGP_Leader>
+        <APG_Leader>T. Young (737)</APG_Leader>
+        <WS_Leader>N. Jokić (15.2)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2022.html</link>
+    </Season>
+    <Season year="2020-21">
+        <league>NBA</league>
+        <champion>Milwaukee Bucks</champion>
+        <MVP>N. Jokić</MVP>
+        <ROTY>L. Ball</ROTY>
+        <PPG_Leader>S. Curry (2015)</PPG_Leader>
+        <RGP_Leader>R. Gobert (960)</RGP_Leader>
+        <APG_Leader>R. Westbrook (763)</APG_Leader>
+        <WS_Leader>N. Jokić (15.6)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2021.html</link>
+    </Season>
+    <Season year="2019-20">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>G. Antetokounmpo</MVP>
+        <ROTY>J. Morant</ROTY>
+        <PPG_Leader>J. Harden (2335)</PPG_Leader>
+        <RGP_Leader>R. Gobert (916)</RGP_Leader>
+        <APG_Leader>L. James (684)</APG_Leader>
+        <WS_Leader>J. Harden (13.1)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2020.html</link>
+    </Season>
+    <Season year="2018-19">
+        <league>NBA</league>
+        <champion>Toronto Raptors</champion>
+        <MVP>G. Antetokounmpo</MVP>
+        <ROTY>L. Dončić</ROTY>
+        <PPG_Leader>J. Harden (2818)</PPG_Leader>
+        <RGP_Leader>A. Drummond (1232)</RGP_Leader>
+        <APG_Leader>R. Westbrook (784)</APG_Leader>
+        <WS_Leader>J. Harden (15.2)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2019.html</link>
+    </Season>
+    <Season year="2017-18">
+        <league>NBA</league>
+        <champion>Golden State Warriors</champion>
+        <MVP>J. Harden</MVP>
+        <ROTY>B. Simmons</ROTY>
+        <PPG_Leader>L. James (2251)</PPG_Leader>
+        <RGP_Leader>A. Drummond (1247)</RGP_Leader>
+        <APG_Leader>R. Westbrook (820)</APG_Leader>
+        <WS_Leader>J. Harden (15.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2018.html</link>
+    </Season>
+    <Season year="2016-17">
+        <league>NBA</league>
+        <champion>Golden State Warriors</champion>
+        <MVP>R. Westbrook</MVP>
+        <ROTY>M. Brogdon</ROTY>
+        <PPG_Leader>R. Westbrook (2558)</PPG_Leader>
+        <RGP_Leader>A. Drummond (1115)</RGP_Leader>
+        <APG_Leader>J. Harden (907)</APG_Leader>
+        <WS_Leader>J. Harden (15.0)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2017.html</link>
+    </Season>
+    <Season year="2015-16">
+        <league>NBA</league>
+        <champion>Cleveland Cavaliers</champion>
+        <MVP>S. Curry</MVP>
+        <ROTY>K. Towns</ROTY>
+        <PPG_Leader>J. Harden (2376)</PPG_Leader>
+        <RGP_Leader>A. Drummond (1198)</RGP_Leader>
+        <APG_Leader>R. Rondo (839)</APG_Leader>
+        <WS_Leader>S. Curry (17.9)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2016.html</link>
+    </Season>
+    <Season year="2014-15">
+        <league>NBA</league>
+        <champion>Golden State Warriors</champion>
+        <MVP>S. Curry</MVP>
+        <ROTY>A. Wiggins</ROTY>
+        <PPG_Leader>J. Harden (2217)</PPG_Leader>
+        <RGP_Leader>D. Jordan (1226)</RGP_Leader>
+        <APG_Leader>C. Paul (838)</APG_Leader>
+        <WS_Leader>J. Harden (16.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2015.html</link>
+    </Season>
+    <Season year="2013-14">
+        <league>NBA</league>
+        <champion>San Antonio Spurs</champion>
+        <MVP>K. Durant</MVP>
+        <ROTY>M. Carter-Williams</ROTY>
+        <PPG_Leader>K. Durant (2593)</PPG_Leader>
+        <RGP_Leader>D. Jordan (1114)</RGP_Leader>
+        <APG_Leader>J. Wall (721)</APG_Leader>
+        <WS_Leader>K. Durant (19.2)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2014.html</link>
+    </Season>
+    <Season year="2012-13">
+        <league>NBA</league>
+        <champion>Miami Heat</champion>
+        <MVP>L. James</MVP>
+        <ROTY>D. Lillard</ROTY>
+        <PPG_Leader>K. Durant (2280)</PPG_Leader>
+        <RGP_Leader>Ö. Aşık (956)</RGP_Leader>
+        <APG_Leader>G. Vásquez (704)</APG_Leader>
+        <WS_Leader>L. James (19.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2013.html</link>
+    </Season>
+    <Season year="2011-12">
+        <league>NBA</league>
+        <champion>Miami Heat</champion>
+        <MVP>L. James</MVP>
+        <ROTY>K. Irving</ROTY>
+        <PPG_Leader>K. Durant (1850)</PPG_Leader>
+        <RGP_Leader>D. Howard (785)</RGP_Leader>
+        <APG_Leader>S. Nash (664)</APG_Leader>
+        <WS_Leader>L. James (14.5)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2012.html</link>
+    </Season>
+    <Season year="2010-11">
+        <league>NBA</league>
+        <champion>Dallas Mavericks</champion>
+        <MVP>D. Rose</MVP>
+        <ROTY>B. Griffin</ROTY>
+        <PPG_Leader>K. Durant (2161)</PPG_Leader>
+        <RGP_Leader>K. Love (1112)</RGP_Leader>
+        <APG_Leader>S. Nash (855)</APG_Leader>
+        <WS_Leader>L. James (15.6)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2011.html</link>
+    </Season>
+    <Season year="2009-10">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>L. James</MVP>
+        <ROTY>T. Evans</ROTY>
+        <PPG_Leader>K. Durant (2472)</PPG_Leader>
+        <RGP_Leader>D. Howard (1082)</RGP_Leader>
+        <APG_Leader>S. Nash (892)</APG_Leader>
+        <WS_Leader>L. James (18.5)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2010.html</link>
+    </Season>
+    <Season year="2008-09">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>L. James</MVP>
+        <ROTY>D. Rose</ROTY>
+        <PPG_Leader>D. Wade (2386)</PPG_Leader>
+        <RGP_Leader>D. Howard (1093)</RGP_Leader>
+        <APG_Leader>C. Paul (861)</APG_Leader>
+        <WS_Leader>L. James (20.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2009.html</link>
+    </Season>
+    <Season year="2007-08">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>K. Bryant</MVP>
+        <ROTY>K. Durant</ROTY>
+        <PPG_Leader>K. Bryant (2323)</PPG_Leader>
+        <RGP_Leader>D. Howard (1161)</RGP_Leader>
+        <APG_Leader>C. Paul (925)</APG_Leader>
+        <WS_Leader>C. Paul (17.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2008.html</link>
+    </Season>
+    <Season year="2006-07">
+        <league>NBA</league>
+        <champion>San Antonio Spurs</champion>
+        <MVP>D. Nowitzki</MVP>
+        <ROTY>B. Roy</ROTY>
+        <PPG_Leader>K. Bryant (2430)</PPG_Leader>
+        <RGP_Leader>D. Howard (1008)</RGP_Leader>
+        <APG_Leader>S. Nash (884)</APG_Leader>
+        <WS_Leader>D. Nowitzki (16.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2007.html</link>
+    </Season>
+    <Season year="2005-06">
+        <league>NBA</league>
+        <champion>Miami Heat</champion>
+        <MVP>S. Nash</MVP>
+        <ROTY>C. Paul</ROTY>
+        <PPG_Leader>K. Bryant (2832)</PPG_Leader>
+        <RGP_Leader>D. Howard (1022)</RGP_Leader>
+        <APG_Leader>S. Nash (826)</APG_Leader>
+        <WS_Leader>D. Nowitzki (17.7)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2006.html</link>
+    </Season>
+    <Season year="2004-05">
+        <league>NBA</league>
+        <champion>San Antonio Spurs</champion>
+        <MVP>S. Nash</MVP>
+        <ROTY>E. Okafor</ROTY>
+        <PPG_Leader>A. Iverson (2302)</PPG_Leader>
+        <RGP_Leader>K. Garnett (1108)</RGP_Leader>
+        <APG_Leader>S. Nash (861)</APG_Leader>
+        <WS_Leader>K. Garnett (16.1)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2005.html</link>
+    </Season>
+    <Season year="2003-04">
+        <league>NBA</league>
+        <champion>Detroit Pistons</champion>
+        <MVP>K. Garnett</MVP>
+        <ROTY>L. James</ROTY>
+        <PPG_Leader>K. Garnett (1987)</PPG_Leader>
+        <RGP_Leader>K. Garnett (1139)</RGP_Leader>
+        <APG_Leader>S. Marbury (719)</APG_Leader>
+        <WS_Leader>K. Garnett (18.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2004.html</link>
+    </Season>
+    <Season year="2002-03">
+        <league>NBA</league>
+        <champion>San Antonio Spurs</champion>
+        <MVP>T. Duncan</MVP>
+        <ROTY>A. Stoudemire</ROTY>
+        <PPG_Leader>K. Bryant (2461)</PPG_Leader>
+        <RGP_Leader>B. Wallace (1126)</RGP_Leader>
+        <APG_Leader>J. Kidd (711)</APG_Leader>
+        <WS_Leader>T. Duncan (16.5)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2003.html</link>
+    </Season>
+    <Season year="2001-02">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>T. Duncan</MVP>
+        <ROTY>P. Gasol</ROTY>
+        <PPG_Leader>P. Pierce (2144)</PPG_Leader>
+        <RGP_Leader>T. Duncan (1042)</RGP_Leader>
+        <APG_Leader>A. Miller (882)</APG_Leader>
+        <WS_Leader>T. Duncan (17.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2002.html</link>
+    </Season>
+    <Season year="2000-01">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>A. Iverson</MVP>
+        <ROTY>M. Miller</ROTY>
+        <PPG_Leader>J. Stackhouse (2380)</PPG_Leader>
+        <RGP_Leader>B. Wallace (1052)</RGP_Leader>
+        <APG_Leader>J. Kidd (753)</APG_Leader>
+        <WS_Leader>S. O'Neal (14.9)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2001.html</link>
+    </Season>
+    <Season year="1999-00">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>S. O'Neal</MVP>
+        <ROTY>E. Brand, S. Francis</ROTY>
+        <PPG_Leader>S. O'Neal (2344)</PPG_Leader>
+        <RGP_Leader>D. Mutombo (1157)</RGP_Leader>
+        <APG_Leader>G. Payton (732)</APG_Leader>
+        <WS_Leader>S. O'Neal (18.6)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_2000.html</link>
+    </Season>
+    <Season year="1998-99">
+        <league>NBA</league>
+        <champion>San Antonio Spurs</champion>
+        <MVP>K. Malone</MVP>
+        <ROTY>V. Carter</ROTY>
+        <PPG_Leader>S. O'Neal (1289)</PPG_Leader>
+        <RGP_Leader>D. Mutombo (610)</RGP_Leader>
+        <APG_Leader>J. Kidd (539)</APG_Leader>
+        <WS_Leader>K. Malone (9.6)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1999.html</link>
+    </Season>
+    <Season year="1997-98">
+        <league>NBA</league>
+        <champion>Chicago Bulls</champion>
+        <MVP>M. Jordan</MVP>
+        <ROTY>T. Duncan</ROTY>
+        <PPG_Leader>M. Jordan (2357)</PPG_Leader>
+        <RGP_Leader>D. Rodman (1201)</RGP_Leader>
+        <APG_Leader>R. Strickland (801)</APG_Leader>
+        <WS_Leader>K. Malone (16.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1998.html</link>
+    </Season>
+    <Season year="1996-97">
+        <league>NBA</league>
+        <champion>Chicago Bulls</champion>
+        <MVP>K. Malone</MVP>
+        <ROTY>A. Iverson</ROTY>
+        <PPG_Leader>M. Jordan (2431)</PPG_Leader>
+        <RGP_Leader>D. Mutombo (929)</RGP_Leader>
+        <APG_Leader>M. Jackson (935)</APG_Leader>
+        <WS_Leader>M. Jordan (18.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1997.html</link>
+    </Season>
+    <Season year="1995-96">
+        <league>NBA</league>
+        <champion>Chicago Bulls</champion>
+        <MVP>M. Jordan</MVP>
+        <ROTY>D. Stoudamire</ROTY>
+        <PPG_Leader>M. Jordan (2491)</PPG_Leader>
+        <RGP_Leader>D. Robinson (1000)</RGP_Leader>
+        <APG_Leader>J. Stockton (916)</APG_Leader>
+        <WS_Leader>M. Jordan (20.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1996.html</link>
+    </Season>
+    <Season year="1994-95">
+        <league>NBA</league>
+        <champion>Houston Rockets</champion>
+        <MVP>D. Robinson</MVP>
+        <ROTY>G. Hill, J. Kidd</ROTY>
+        <PPG_Leader>S. O'Neal (2315)</PPG_Leader>
+        <RGP_Leader>D. Mutombo (1029)</RGP_Leader>
+        <APG_Leader>J. Stockton (1011)</APG_Leader>
+        <WS_Leader>D. Robinson (17.5)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1995.html</link>
+    </Season>
+    <Season year="1993-94">
+        <league>NBA</league>
+        <champion>Houston Rockets</champion>
+        <MVP>H. Olajuwon</MVP>
+        <ROTY>C. Webber</ROTY>
+        <PPG_Leader>D. Robinson (2383)</PPG_Leader>
+        <RGP_Leader>D. Rodman (1367)</RGP_Leader>
+        <APG_Leader>J. Stockton (1031)</APG_Leader>
+        <WS_Leader>D. Robinson (20.0)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1994.html</link>
+    </Season>
+    <Season year="1992-93">
+        <league>NBA</league>
+        <champion>Chicago Bulls</champion>
+        <MVP>C. Barkley</MVP>
+        <ROTY>S. O'Neal</ROTY>
+        <PPG_Leader>M. Jordan (2541)</PPG_Leader>
+        <RGP_Leader>D. Rodman (1132)</RGP_Leader>
+        <APG_Leader>J. Stockton (987)</APG_Leader>
+        <WS_Leader>M. Jordan (17.2)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1993.html</link>
+    </Season>
+    <Season year="1991-92">
+        <league>NBA</league>
+        <champion>Chicago Bulls</champion>
+        <MVP>M. Jordan</MVP>
+        <ROTY>L. Johnson</ROTY>
+        <PPG_Leader>M. Jordan (2404)</PPG_Leader>
+        <RGP_Leader>D. Rodman (1530)</RGP_Leader>
+        <APG_Leader>J. Stockton (1126)</APG_Leader>
+        <WS_Leader>M. Jordan (17.7)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1992.html</link>
+    </Season>
+    <Season year="1990-91">
+        <league>NBA</league>
+        <champion>Chicago Bulls</champion>
+        <MVP>M. Jordan</MVP>
+        <ROTY>D. Coleman</ROTY>
+        <PPG_Leader>M. Jordan (2580)</PPG_Leader>
+        <RGP_Leader>D. Robinson (1063)</RGP_Leader>
+        <APG_Leader>J. Stockton (1164)</APG_Leader>
+        <WS_Leader>M. Jordan (20.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1991.html</link>
+    </Season>
+    <Season year="1989-90">
+        <league>NBA</league>
+        <champion>Detroit Pistons</champion>
+        <MVP>M. Johnson</MVP>
+        <ROTY>D. Robinson</ROTY>
+        <PPG_Leader>M. Jordan (2753)</PPG_Leader>
+        <RGP_Leader>H. Olajuwon (1149)</RGP_Leader>
+        <APG_Leader>J. Stockton (1134)</APG_Leader>
+        <WS_Leader>M. Jordan (19.0)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1990.html</link>
+    </Season>
+    <Season year="1988-89">
+        <league>NBA</league>
+        <champion>Detroit Pistons</champion>
+        <MVP>M. Johnson</MVP>
+        <ROTY>M. Richmond</ROTY>
+        <PPG_Leader>M. Jordan (2633)</PPG_Leader>
+        <RGP_Leader>H. Olajuwon (1105)</RGP_Leader>
+        <APG_Leader>J. Stockton (1118)</APG_Leader>
+        <WS_Leader>M. Jordan (19.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1989.html</link>
+    </Season>
+    <Season year="1987-88">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>M. Jordan</MVP>
+        <ROTY>M. Jackson</ROTY>
+        <PPG_Leader>M. Jordan (2868)</PPG_Leader>
+        <RGP_Leader>C. Oakley (1066)</RGP_Leader>
+        <APG_Leader>J. Stockton (1128)</APG_Leader>
+        <WS_Leader>M. Jordan (21.2)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1988.html</link>
+    </Season>
+    <Season year="1986-87">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>M. Johnson</MVP>
+        <ROTY>C. Person</ROTY>
+        <PPG_Leader>M. Jordan (3041)</PPG_Leader>
+        <RGP_Leader>C. Oakley (1074)</RGP_Leader>
+        <APG_Leader>M. Johnson (977)</APG_Leader>
+        <WS_Leader>M. Jordan (16.9)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1987.html</link>
+    </Season>
+    <Season year="1985-86">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>L. Bird</MVP>
+        <ROTY>P. Ewing</ROTY>
+        <PPG_Leader>A. English (2414)</PPG_Leader>
+        <RGP_Leader>B. Laimbeer (1075)</RGP_Leader>
+        <APG_Leader>M. Johnson (907)</APG_Leader>
+        <WS_Leader>L. Bird (15.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1986.html</link>
+    </Season>
+    <Season year="1984-85">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>L. Bird</MVP>
+        <ROTY>M. Jordan</ROTY>
+        <PPG_Leader>M. Jordan (2313)</PPG_Leader>
+        <RGP_Leader>M. Malone (1031)</RGP_Leader>
+        <APG_Leader>I. Thomas (1123)</APG_Leader>
+        <WS_Leader>L. Bird (15.7)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1985.html</link>
+    </Season>
+    <Season year="1983-84">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>L. Bird</MVP>
+        <ROTY>R. Sampson</ROTY>
+        <PPG_Leader>A. Dantley (2418)</PPG_Leader>
+        <RGP_Leader>B. Laimbeer (1003)</RGP_Leader>
+        <APG_Leader>N. Nixon (914)</APG_Leader>
+        <WS_Leader>A. Dantley (14.6)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1984.html</link>
+    </Season>
+    <Season year="1982-83">
+        <league>NBA</league>
+        <champion>Philadelphia 76ers</champion>
+        <MVP>M. Malone</MVP>
+        <ROTY>T. Cummings</ROTY>
+        <PPG_Leader>A. English (2326)</PPG_Leader>
+        <RGP_Leader>M. Malone (1194)</RGP_Leader>
+        <APG_Leader>M. Johnson (829)</APG_Leader>
+        <WS_Leader>M. Malone (15.1)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1983.html</link>
+    </Season>
+    <Season year="1981-82">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>M. Malone</MVP>
+        <ROTY>B. Williams</ROTY>
+        <PPG_Leader>G. Gervin (2551)</PPG_Leader>
+        <RGP_Leader>M. Malone (1188)</RGP_Leader>
+        <APG_Leader>J. Moore (762)</APG_Leader>
+        <WS_Leader>M. Malone (15.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1982.html</link>
+    </Season>
+    <Season year="1980-81">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>J. Erving</MVP>
+        <ROTY>D. Griffith</ROTY>
+        <PPG_Leader>A. Dantley (2452)</PPG_Leader>
+        <RGP_Leader>M. Malone (1180)</RGP_Leader>
+        <APG_Leader>K. Porter (734)</APG_Leader>
+        <WS_Leader>K. Abdul-Jabbar (14.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1981.html</link>
+    </Season>
+    <Season year="1979-80">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>K. Abdul-Jabbar</MVP>
+        <ROTY>L. Bird</ROTY>
+        <PPG_Leader>G. Gervin (2585)</PPG_Leader>
+        <RGP_Leader>S. Nater (1216)</RGP_Leader>
+        <APG_Leader>M. Richardson (832)</APG_Leader>
+        <WS_Leader>K. Abdul-Jabbar (14.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1980.html</link>
+    </Season>
+    <Season year="1978-79">
+        <league>NBA</league>
+        <champion>Seattle SuperSonics</champion>
+        <MVP>M. Malone</MVP>
+        <ROTY>P. Ford</ROTY>
+        <PPG_Leader>G. Gervin (2365)</PPG_Leader>
+        <RGP_Leader>M. Malone (1444)</RGP_Leader>
+        <APG_Leader>K. Porter (1099)</APG_Leader>
+        <WS_Leader>K. Abdul-Jabbar (14.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1979.html</link>
+    </Season>
+    <Season year="1977-78">
+        <league>NBA</league>
+        <champion>Washington Bullets</champion>
+        <MVP>B. Walton</MVP>
+        <ROTY>W. Davis</ROTY>
+        <PPG_Leader>G. Gervin (2232)</PPG_Leader>
+        <RGP_Leader>T. Robinson (1288)</RGP_Leader>
+        <APG_Leader>K. Porter (837)</APG_Leader>
+        <WS_Leader>D. Thompson (12.7)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1978.html</link>
+    </Season>
+    <Season year="1976-77">
+        <league>NBA</league>
+        <champion>Portland Trail Blazers</champion>
+        <MVP>K. Abdul-Jabbar</MVP>
+        <ROTY>A. Dantley</ROTY>
+        <PPG_Leader>P. Maravich (2273)</PPG_Leader>
+        <RGP_Leader>K. Abdul-Jabbar (1090)</RGP_Leader>
+        <APG_Leader>D. Buse (685)</APG_Leader>
+        <WS_Leader>K. Abdul-Jabbar (17.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1977.html</link>
+    </Season>
+    <Season year="1975-76">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>K. Abdul-Jabbar</MVP>
+        <ROTY>A. Adams</ROTY>
+        <PPG_Leader>B. McAdoo (2427)</PPG_Leader>
+        <RGP_Leader>K. Abdul-Jabbar (1383)</RGP_Leader>
+        <APG_Leader>S. Watts (661)</APG_Leader>
+        <WS_Leader>K. Abdul-Jabbar (17.0)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1976.html</link>
+    </Season>
+    <Season year="1975-76">
+        <league>ABA</league>
+        <champion>New York Nets</champion>
+        <MVP>J. Erving</MVP>
+        <ROTY>D. Thompson</ROTY>
+        <PPG_Leader>J. Erving (2462)</PPG_Leader>
+        <RGP_Leader>A. Gilmore (1303)</RGP_Leader>
+        <APG_Leader>D. Buse (689)</APG_Leader>
+        <WS_Leader>J. Erving (17.7)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/ABA_1976.html</link>
+    </Season>
+    <Season year="1974-75">
+        <league>NBA</league>
+        <champion>Golden State Warriors</champion>
+        <MVP>B. McAdoo</MVP>
+        <ROTY>J. Wilkes</ROTY>
+        <PPG_Leader>B. McAdoo (2831)</PPG_Leader>
+        <RGP_Leader>B. McAdoo (1155)</RGP_Leader>
+        <APG_Leader>K. Porter (650)</APG_Leader>
+        <WS_Leader>B. McAdoo (17.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1975.html</link>
+    </Season>
+    <Season year="1974-75">
+        <league>ABA</league>
+        <champion>Kentucky Colonels</champion>
+        <MVP>J. Erving, G. McGinnis</MVP>
+        <ROTY>M. Barnes</ROTY>
+        <PPG_Leader>G. McGinnis (2353)</PPG_Leader>
+        <RGP_Leader>A. Gilmore (1361)</RGP_Leader>
+        <APG_Leader>C. Williams (576)</APG_Leader>
+        <WS_Leader>J. Erving (17.6)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/ABA_1975.html</link>
+    </Season>
+    <Season year="1973-74">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>K. Abdul-Jabbar</MVP>
+        <ROTY>E. DiGregorio</ROTY>
+        <PPG_Leader>B. McAdoo (2261)</PPG_Leader>
+        <RGP_Leader>E. Hayes (1463)</RGP_Leader>
+        <APG_Leader>E. DiGregorio (663)</APG_Leader>
+        <WS_Leader>K. Abdul-Jabbar (18.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1974.html</link>
+    </Season>
+    <Season year="1973-74">
+        <league>ABA</league>
+        <champion>New York Nets</champion>
+        <MVP>J. Erving</MVP>
+        <ROTY>S. Nater</ROTY>
+        <PPG_Leader>J. Erving (2299)</PPG_Leader>
+        <RGP_Leader>A. Gilmore (1538)</RGP_Leader>
+        <APG_Leader>A. Smith (619)</APG_Leader>
+        <WS_Leader>J. Erving (16.5)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/ABA_1974.html</link>
+    </Season>
+    <Season year="1972-73">
+        <league>NBA</league>
+        <champion>New York Knicks</champion>
+        <MVP>D. Cowens</MVP>
+        <ROTY>B. McAdoo</ROTY>
+        <PPG_Leader>T. Archibald (2719)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (1526)</RGP_Leader>
+        <APG_Leader>T. Archibald (910)</APG_Leader>
+        <WS_Leader>K. Abdul-Jabbar (21.9)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1973.html</link>
+    </Season>
+    <Season year="1972-73">
+        <league>ABA</league>
+        <champion>Indiana Pacers</champion>
+        <MVP>B. Cunningham</MVP>
+        <ROTY>B. Taylor</ROTY>
+        <PPG_Leader>D. Issel (2292)</PPG_Leader>
+        <RGP_Leader>A. Gilmore (1476)</RGP_Leader>
+        <APG_Leader>C. Williams (582)</APG_Leader>
+        <WS_Leader>A. Gilmore (18.5)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/ABA_1973.html</link>
+    </Season>
+    <Season year="1971-72">
+        <league>NBA</league>
+        <champion>Los Angeles Lakers</champion>
+        <MVP>K. Abdul-Jabbar</MVP>
+        <ROTY>S. Wicks</ROTY>
+        <PPG_Leader>K. Abdul-Jabbar (2822)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (1572)</RGP_Leader>
+        <APG_Leader>L. Wilkens (766)</APG_Leader>
+        <WS_Leader>K. Abdul-Jabbar (25.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1972.html</link>
+    </Season>
+    <Season year="1971-72">
+        <league>ABA</league>
+        <champion>Indiana Pacers</champion>
+        <MVP>A. Gilmore</MVP>
+        <ROTY>A. Gilmore</ROTY>
+        <PPG_Leader>D. Issel (2538)</PPG_Leader>
+        <RGP_Leader>A. Gilmore (1491)</RGP_Leader>
+        <APG_Leader>B. Melchionni (669)</APG_Leader>
+        <WS_Leader>A. Gilmore (19.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/ABA_1972.html</link>
+    </Season>
+    <Season year="1970-71">
+        <league>NBA</league>
+        <champion>Milwaukee Bucks</champion>
+        <MVP>K. Abdul-Jabbar</MVP>
+        <ROTY>D. Cowens, G. Petrie</ROTY>
+        <PPG_Leader>K. Abdul-Jabbar (2596)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (1493)</RGP_Leader>
+        <APG_Leader>N. Van Lier (832)</APG_Leader>
+        <WS_Leader>K. Abdul-Jabbar (22.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1971.html</link>
+    </Season>
+    <Season year="1970-71">
+        <league>ABA</league>
+        <champion>Utah Stars</champion>
+        <MVP>M. Daniels</MVP>
+        <ROTY>D. Issel, C. Scott</ROTY>
+        <PPG_Leader>D. Issel (2480)</PPG_Leader>
+        <RGP_Leader>M. Daniels (1475)</RGP_Leader>
+        <APG_Leader>B. Melchionni (672)</APG_Leader>
+        <WS_Leader>Z. Beaty (16.0)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/ABA_1971.html</link>
+    </Season>
+    <Season year="1969-70">
+        <league>NBA</league>
+        <champion>New York Knicks</champion>
+        <MVP>W. Reed</MVP>
+        <ROTY>K. Abdul-Jabbar</ROTY>
+        <PPG_Leader>K. Abdul-Jabbar (2361)</PPG_Leader>
+        <RGP_Leader>E. Hayes (1386)</RGP_Leader>
+        <APG_Leader>L. Wilkens (683)</APG_Leader>
+        <WS_Leader>J. West (15.2)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1970.html</link>
+    </Season>
+    <Season year="1969-70">
+        <league>ABA</league>
+        <champion>Indiana Pacers</champion>
+        <MVP>S. Haywood</MVP>
+        <ROTY>S. Haywood</ROTY>
+        <PPG_Leader>S. Haywood (2519)</PPG_Leader>
+        <RGP_Leader>S. Haywood (1637)</RGP_Leader>
+        <APG_Leader>L. Brown (580)</APG_Leader>
+        <WS_Leader>S. Haywood (17.1)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/ABA_1970.html</link>
+    </Season>
+    <Season year="1968-69">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>W. Unseld</MVP>
+        <ROTY>W. Unseld</ROTY>
+        <PPG_Leader>E. Hayes (2327)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (1712)</RGP_Leader>
+        <APG_Leader>O. Robertson (772)</APG_Leader>
+        <WS_Leader>W. Reed (14.7)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1969.html</link>
+    </Season>
+    <Season year="1968-69">
+        <league>ABA</league>
+        <champion>Oakland Oaks</champion>
+        <MVP>M. Daniels</MVP>
+        <ROTY>W. Jabali</ROTY>
+        <PPG_Leader>L. Jones (2133)</PPG_Leader>
+        <RGP_Leader>M. Daniels (1256)</RGP_Leader>
+        <APG_Leader>L. Brown (544)</APG_Leader>
+        <WS_Leader>J. Jones (16.1)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/ABA_1969.html</link>
+    </Season>
+    <Season year="1967-68">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>W. Chamberlain</MVP>
+        <ROTY>E. Monroe</ROTY>
+        <PPG_Leader>D. Bing (2142)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (1952)</RGP_Leader>
+        <APG_Leader>W. Chamberlain (702)</APG_Leader>
+        <WS_Leader>W. Chamberlain (20.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1968.html</link>
+    </Season>
+    <Season year="1967-68">
+        <league>ABA</league>
+        <champion>Pittsburgh Pipers</champion>
+        <MVP>C. Hawkins</MVP>
+        <ROTY>M. Daniels</ROTY>
+        <PPG_Leader>D. Moe (1884)</PPG_Leader>
+        <RGP_Leader>M. Daniels (1213)</RGP_Leader>
+        <APG_Leader>L. Brown (506)</APG_Leader>
+        <WS_Leader>C. Hawkins (17.9)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/ABA_1968.html</link>
+    </Season>
+    <Season year="1966-67">
+        <league>NBA</league>
+        <champion>Philadelphia 76ers</champion>
+        <MVP>W. Chamberlain</MVP>
+        <ROTY>D. Bing</ROTY>
+        <PPG_Leader>R. Barry (2775)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (1957)</RGP_Leader>
+        <APG_Leader>G. Rodgers (908)</APG_Leader>
+        <WS_Leader>W. Chamberlain (21.9)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1967.html</link>
+    </Season>
+    <Season year="1965-66">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>W. Chamberlain</MVP>
+        <ROTY>R. Barry</ROTY>
+        <PPG_Leader>W. Chamberlain (2649)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (1943)</RGP_Leader>
+        <APG_Leader>O. Robertson (847)</APG_Leader>
+        <WS_Leader>W. Chamberlain (21.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1966.html</link>
+    </Season>
+    <Season year="1964-65">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>B. Russell</MVP>
+        <ROTY>W. Reed</ROTY>
+        <PPG_Leader>W. Chamberlain (2534)</PPG_Leader>
+        <RGP_Leader>B. Russell (1878)</RGP_Leader>
+        <APG_Leader>O. Robertson (861)</APG_Leader>
+        <WS_Leader>O. Robertson (17.0)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1965.html</link>
+    </Season>
+    <Season year="1963-64">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>O. Robertson</MVP>
+        <ROTY>J. Lucas</ROTY>
+        <PPG_Leader>W. Chamberlain (2948)</PPG_Leader>
+        <RGP_Leader>B. Russell (1930)</RGP_Leader>
+        <APG_Leader>O. Robertson (868)</APG_Leader>
+        <WS_Leader>W. Chamberlain (25.0)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1964.html</link>
+    </Season>
+    <Season year="1962-63">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>B. Russell</MVP>
+        <ROTY>T. Dischinger</ROTY>
+        <PPG_Leader>W. Chamberlain (3586)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (1946)</RGP_Leader>
+        <APG_Leader>G. Rodgers (825)</APG_Leader>
+        <WS_Leader>W. Chamberlain (20.9)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1963.html</link>
+    </Season>
+    <Season year="1961-62">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>B. Russell</MVP>
+        <ROTY>W. Bellamy</ROTY>
+        <PPG_Leader>W. Chamberlain (4029)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (2052)</RGP_Leader>
+        <APG_Leader>O. Robertson (899)</APG_Leader>
+        <WS_Leader>W. Chamberlain (23.1)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1962.html</link>
+    </Season>
+    <Season year="1960-61">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>B. Russell</MVP>
+        <ROTY>O. Robertson</ROTY>
+        <PPG_Leader>W. Chamberlain (3033)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (2149)</RGP_Leader>
+        <APG_Leader>O. Robertson (690)</APG_Leader>
+        <WS_Leader>W. Chamberlain (18.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1961.html</link>
+    </Season>
+    <Season year="1959-60">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>W. Chamberlain</MVP>
+        <ROTY>W. Chamberlain</ROTY>
+        <PPG_Leader>W. Chamberlain (2707)</PPG_Leader>
+        <RGP_Leader>W. Chamberlain (1941)</RGP_Leader>
+        <APG_Leader>B. Cousy (715)</APG_Leader>
+        <WS_Leader>W. Chamberlain (17.0)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1960.html</link>
+    </Season>
+    <Season year="1958-59">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>B. Pettit</MVP>
+        <ROTY>E. Baylor</ROTY>
+        <PPG_Leader>B. Pettit (2105)</PPG_Leader>
+        <RGP_Leader>B. Russell (1612)</RGP_Leader>
+        <APG_Leader>B. Cousy (557)</APG_Leader>
+        <WS_Leader>B. Pettit (14.8)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1959.html</link>
+    </Season>
+    <Season year="1957-58">
+        <league>NBA</league>
+        <champion>St. Louis Hawks</champion>
+        <MVP>B. Russell</MVP>
+        <ROTY>W. Sauldsberry</ROTY>
+        <PPG_Leader>G. Yardley (2001)</PPG_Leader>
+        <RGP_Leader>B. Russell (1564)</RGP_Leader>
+        <APG_Leader>B. Cousy (463)</APG_Leader>
+        <WS_Leader>D. Schayes (13.7)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1958.html</link>
+    </Season>
+    <Season year="1956-57">
+        <league>NBA</league>
+        <champion>Boston Celtics</champion>
+        <MVP>B. Cousy</MVP>
+        <ROTY>T. Heinsohn</ROTY>
+        <PPG_Leader>P. Arizin (1817)</PPG_Leader>
+        <RGP_Leader>M. Stokes (1256)</RGP_Leader>
+        <APG_Leader>B. Cousy (478)</APG_Leader>
+        <WS_Leader>N. Johnston (13.7)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1957.html</link>
+    </Season>
+    <Season year="1955-56">
+        <league>NBA</league>
+        <champion>Philadelphia Warriors</champion>
+        <MVP>B. Pettit</MVP>
+        <ROTY>M. Stokes</ROTY>
+        <PPG_Leader>B. Pettit (1849)</PPG_Leader>
+        <RGP_Leader>B. Pettit (1164)</RGP_Leader>
+        <APG_Leader>B. Cousy (642)</APG_Leader>
+        <WS_Leader>N. Johnston (13.9)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1956.html</link>
+    </Season>
+    <Season year="1954-55">
+        <league>NBA</league>
+        <champion>Syracuse Nationals</champion>
+        <MVP>none</MVP>
+        <ROTY>B. Pettit</ROTY>
+        <PPG_Leader>N. Johnston (1631)</PPG_Leader>
+        <RGP_Leader>N. Johnston (1085)</RGP_Leader>
+        <APG_Leader>B. Cousy (557)</APG_Leader>
+        <WS_Leader>N. Johnston (15.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1955.html</link>
+    </Season>
+    <Season year="1953-54">
+        <league>NBA</league>
+        <champion>Minneapolis Lakers</champion>
+        <MVP>none</MVP>
+        <ROTY>R. Felix</ROTY>
+        <PPG_Leader>N. Johnston (1759)</PPG_Leader>
+        <RGP_Leader>H. Gallatin (1098)</RGP_Leader>
+        <APG_Leader>B. Cousy (518)</APG_Leader>
+        <WS_Leader>N. Johnston (18.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1954.html</link>
+    </Season>
+    <Season year="1952-53">
+        <league>NBA</league>
+        <champion>Minneapolis Lakers</champion>
+        <MVP>none</MVP>
+        <ROTY>M. Meineke</ROTY>
+        <PPG_Leader>N. Johnston (1564)</PPG_Leader>
+        <RGP_Leader>G. Mikan (1007)</RGP_Leader>
+        <APG_Leader>B. Cousy (547)</APG_Leader>
+        <WS_Leader>N. Johnston (15.3)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1953.html</link>
+    </Season>
+    <Season year="1951-52">
+        <league>NBA</league>
+        <champion>Minneapolis Lakers</champion>
+        <MVP>none</MVP>
+        <ROTY>M. Hutchins, B. Tosheff</ROTY>
+        <PPG_Leader>P. Arizin (1674)</PPG_Leader>
+        <RGP_Leader>L. Foust (880)</RGP_Leader>
+        <APG_Leader>A. Phillip (539)</APG_Leader>
+        <WS_Leader>P. Arizin (16.0)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1952.html</link>
+    </Season>
+    <Season year="1950-51">
+        <league>NBA</league>
+        <champion>Rochester Royals</champion>
+        <MVP>none</MVP>
+        <ROTY>P. Arizin</ROTY>
+        <PPG_Leader>G. Mikan (1932)</PPG_Leader>
+        <RGP_Leader>D. Schayes (1080)</RGP_Leader>
+        <APG_Leader>A. Phillip (414)</APG_Leader>
+        <WS_Leader>G. Mikan (23.4)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1951.html</link>
+    </Season>
+    <Season year="1949-50">
+        <league>NBA</league>
+        <champion>Minneapolis Lakers</champion>
+        <MVP>none</MVP>
+        <ROTY>A. Groza</ROTY>
+        <PPG_Leader>G. Mikan (1865)</PPG_Leader>
+        <RGP_Leader>none</RGP_Leader>
+        <APG_Leader>D. McGuire (386)</APG_Leader>
+        <WS_Leader>G. Mikan (21.1)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/NBA_1950.html</link>
+    </Season>
+    <Season year="1948-49">
+        <league>BAA</league>
+        <champion>Minneapolis Lakers</champion>
+        <MVP>none</MVP>
+        <ROTY>H. Shannon</ROTY>
+        <PPG_Leader>G. Mikan (1698)</PPG_Leader>
+        <RGP_Leader>none</RGP_Leader>
+        <APG_Leader>B. Davies (321)</APG_Leader>
+        <WS_Leader>G. Mikan (20.9)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/BAA_1949.html</link>
+    </Season>
+    <Season year="1947-48">
+        <league>BAA</league>
+        <champion>Baltimore Bullets</champion>
+        <MVP>none</MVP>
+        <ROTY>P. Hoffman</ROTY>
+        <PPG_Leader>M. Zaslofsky (1007)</PPG_Leader>
+        <RGP_Leader>none</RGP_Leader>
+        <APG_Leader>H. Dallmar (120)</APG_Leader>
+        <WS_Leader>B. Feerick (10.5)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/BAA_1948.html</link>
+    </Season>
+    <Season year="1946-47">
+        <league>BAA</league>
+        <champion>Philadelphia Warriors</champion>
+        <MVP>none</MVP>
+        <ROTY>none</ROTY>
+        <PPG_Leader>J. Fulks (1389)</PPG_Leader>
+        <RGP_Leader>none</RGP_Leader>
+        <APG_Leader>E. Calverley (202)</APG_Leader>
+        <WS_Leader>B. Feerick (18.6)</WS_Leader>
+        <link>https://www.basketball-reference.com/leagues/BAA_1947.html</link>
+    </Season>
+</NBASeasons>

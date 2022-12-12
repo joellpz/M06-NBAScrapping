@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NBAPlayers>
+    <Player>
+        <name>Alaa Abdelnaby</name>
+        <position>Power Forward</position>
+        <college>Duke</college>
+        <draftTeam>Portland Trail Blazers</draftTeam>
+        <draftPos>25th pick</draftPos>
+        <born>1968-06-24</born>
+        <age>54</age>
+        <draftYear>1990</draftYear>
+        <expCareer>5</expCareer>
+    </Player>
+    <Player>
+        <name>Zaid Abdul-Aziz</name>
+        <position>Center and Power Forward</position>
+        <college>Iowa State</college>
+        <draftTeam>Cincinnati Royals</draftTeam>
+        <draftPos>5th pick</draftPos>
+        <born>1946-04-07</born>
+        <age>76</age>
+        <draftYear>1968</draftYear>
+        <expCareer>10</expCareer>
+    </Player>
+    <Player>
+        <name>Kareem Abdul-Jabbar</name>
+        <position>Center</position>
+        <college>UCLA</college>
+        <draftTeam>Milwaukee Bucks</draftTeam>
+        <draftPos>1st pick</draftPos>
+        <born>1947-04-16</born>
+        <age>75</age>
+        <draftYear>1969</draftYear>
+        <expCareer>20</expCareer>
+    </Player>
+    <Player>
+        <name>Mahmoud Abdul-Rauf</name>
+        <position>Point Guard</position>
+        <college>LSU</college>
+        <draftTeam>Denver Nuggets</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1969-03-09</born>
+        <age>53</age>
+        <draftYear>1990</draftYear>
+        <expCareer>9</expCareer>
+    </Player>
+    <Player>
+        <name>Tariq Abdul-Wahad</name>
+        <position>Shooting Guard</position>
+        <college>Michigan, San Jose State</college>
+        <draftTeam>Sacramento Kings</draftTeam>
+        <draftPos>11th pick</draftPos>
+        <born>1974-11-03</born>
+        <age>48</age>
+        <draftYear>1997</draftYear>
+        <expCareer>6</expCareer>
+    </Player>
+    <Player>
+        <name>Shareef Abdur-Rahim</name>
+        <position>Power Forward, Small Forward, and Center</position>
+        <college>California</college>
+        <draftTeam>Vancouver Grizzlies</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1976-12-11</born>
+        <age>46</age>
+        <draftYear>1996</draftYear>
+        <expCareer>12</expCareer>
+    </Player>
+    <Player>
+        <name>Tom Abernethy</name>
+        <position>Small Forward and Power Forward</position>
+        <college>Indiana</college>
+        <draftTeam>Los Angeles Lakers</draftTeam>
+        <draftPos>9th pick</draftPos>
+        <born>1954-05-06</born>
+        <age>68</age>
+        <draftYear>1976</draftYear>
+        <expCareer>5</expCareer>
+    </Player>
+    <Player>
+        <name>Forest Able</name>
+        <position>Guard</position>
+        <college>Western Kentucky</college>
+        <draftTeam>Syracuse Nationals</draftTeam>
+        <draftPos>5th pick</draftPos>
+        <born>1932-07-27</born>
+        <age>90</age>
+        <draftYear>1956</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>John Abramovic</name>
+        <position>Forward</position>
+        <college>Salem University</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1919-02-09</born>
+        <age>81</age>
+        <draftYear>0</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Álex Abrines</name>
+        <position>Shooting Guard</position>
+        <college>none</college>
+        <draftTeam>Oklahoma City Thunder</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1993-08-01</born>
+        <age>29</age>
+        <draftYear>2013</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Precious Achiuwa</name>
+        <position>Center and Power Forward</position>
+        <college>Memphis</college>
+        <draftTeam>Miami Heat</draftTeam>
+        <draftPos>20th pick</draftPos>
+        <born>1999-09-19</born>
+        <age>23</age>
+        <draftYear>2020</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Alex Acker</name>
+        <position>Shooting Guard</position>
+        <college>Pepperdine</college>
+        <draftTeam>Detroit Pistons</draftTeam>
+        <draftPos>30th pick</draftPos>
+        <born>1983-01-21</born>
+        <age>39</age>
+        <draftYear>2005</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Don Ackerman</name>
+        <position>Point Guard</position>
+        <college>Long Island University</college>
+        <draftTeam>New York Knicks</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1930-09-04</born>
+        <age>80</age>
+        <draftYear>1953</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Mark Acres</name>
+        <position>Center</position>
+        <college>Oral Roberts</college>
+        <draftTeam>Dallas Mavericks</draftTeam>
+        <draftPos>16th pick</draftPos>
+        <born>1962-11-15</born>
+        <age>60</age>
+        <draftYear>1985</draftYear>
+        <expCareer>6</expCareer>
+    </Player>
+    <Player>
+        <name>Bud Acton</name>
+        <position>Small Forward</position>
+        <college>Hillsdale College</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1942-01-11</born>
+        <age>80</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Quincy Acy</name>
+        <position>Power Forward and Small Forward</position>
+        <college>Baylor</college>
+        <draftTeam>Toronto Raptors</draftTeam>
+        <draftPos>7th pick</draftPos>
+        <born>1990-10-06</born>
+        <age>32</age>
+        <draftYear>2012</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Alvan Adams</name>
+        <position>Center and Power Forward</position>
+        <college>Oklahoma</college>
+        <draftTeam>Phoenix Suns</draftTeam>
+        <draftPos>4th pick</draftPos>
+        <born>1954-07-19</born>
+        <age>68</age>
+        <draftYear>1975</draftYear>
+        <expCareer>13</expCareer>
+    </Player>
+    <Player>
+        <name>Don Adams</name>
+        <position>Small Forward</position>
+        <college>Northwestern</college>
+        <draftTeam>San Diego Rockets</draftTeam>
+        <draftPos>1st pick</draftPos>
+        <born>1947-11-27</born>
+        <age>66</age>
+        <draftYear>1970</draftYear>
+        <expCareer>7</expCareer>
+    </Player>
+    <Player>
+        <name>George Adams</name>
+        <position>Small Forward</position>
+        <college>Gardner-Webb University</college>
+        <draftTeam>Milwaukee Bucks</draftTeam>
+        <draftPos>16th pick</draftPos>
+        <born>1949-05-15</born>
+        <age>73</age>
+        <draftYear>1972</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Hassan Adams</name>
+        <position>Shooting Guard</position>
+        <college>Arizona</college>
+        <draftTeam>New Jersey Nets</draftTeam>
+        <draftPos>24th pick</draftPos>
+        <born>1984-06-20</born>
+        <age>38</age>
+        <draftYear>2006</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Jaylen Adams</name>
+        <position>Point Guard</position>
+        <college>St. Bonaventure</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1996-05-04</born>
+        <age>26</age>
+        <draftYear>0</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Jordan Adams</name>
+        <position>Shooting Guard</position>
+        <college>UCLA</college>
+        <draftTeam>Memphis Grizzlies</draftTeam>
+        <draftPos>22nd pick</draftPos>
+        <born>1994-07-08</born>
+        <age>28</age>
+        <draftYear>2014</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Michael Adams</name>
+        <position>Point Guard</position>
+        <college>Boston College</college>
+        <draftTeam>Sacramento Kings</draftTeam>
+        <draftPos>19th pick</draftPos>
+        <born>1963-01-19</born>
+        <age>59</age>
+        <draftYear>1985</draftYear>
+        <expCareer>11</expCareer>
+    </Player>
+    <Player>
+        <name>Steven Adams</name>
+        <position>Center</position>
+        <college>Pitt</college>
+        <draftTeam>Oklahoma City Thunder</draftTeam>
+        <draftPos>12th pick</draftPos>
+        <born>1993-07-20</born>
+        <age>29</age>
+        <draftYear>2013</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Rafael Addison</name>
+        <position>Small Forward</position>
+        <college>Syracuse</college>
+        <draftTeam>Phoenix Suns</draftTeam>
+        <draftPos>15th pick</draftPos>
+        <born>1964-07-22</born>
+        <age>58</age>
+        <draftYear>1986</draftYear>
+        <expCareer>6</expCareer>
+    </Player>
+    <Player>
+        <name>Bam Adebayo</name>
+        <position>Center and Power Forward</position>
+        <college>Kentucky</college>
+        <draftTeam>Miami Heat</draftTeam>
+        <draftPos>14th pick</draftPos>
+        <born>1997-07-18</born>
+        <age>25</age>
+        <draftYear>2017</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Deng Adel</name>
+        <position>Small Forward</position>
+        <college>Louisville</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1997-02-01</born>
+        <age>25</age>
+        <draftYear>0</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Rick Adelman</name>
+        <position>Point Guard</position>
+        <college>Loyola Marymount</college>
+        <draftTeam>San Diego Rockets</draftTeam>
+        <draftPos>1st pick</draftPos>
+        <born>1946-06-16</born>
+        <age>76</age>
+        <draftYear>1968</draftYear>
+        <expCareer>7</expCareer>
+    </Player>
+    <Player>
+        <name>Jeff Adrien</name>
+        <position>Power Forward</position>
+        <college>UConn</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1986-02-10</born>
+        <age>36</age>
+        <draftYear>0</draftYear>
+        <expCareer>5</expCareer>
+    </Player>
+    <Player>
+        <name>Arron Afflalo</name>
+        <position>Shooting Guard and Small Forward</position>
+        <college>UCLA</college>
+        <draftTeam>Detroit Pistons</draftTeam>
+        <draftPos>27th pick</draftPos>
+        <born>1985-10-15</born>
+        <age>37</age>
+        <draftYear>2007</draftYear>
+        <expCareer>11</expCareer>
+    </Player>
+    <Player>
+        <name>Ochai Agbaji</name>
+        <position>Shooting Guard</position>
+        <college>Kansas</college>
+        <draftTeam>Cleveland Cavaliers</draftTeam>
+        <draftPos>14th pick</draftPos>
+        <born>2000-04-20</born>
+        <age>22</age>
+        <draftYear>2022</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Maurice Ager</name>
+        <position>Shooting Guard</position>
+        <college>Michigan State</college>
+        <draftTeam>Dallas Mavericks</draftTeam>
+        <draftPos>28th pick</draftPos>
+        <born>1984-02-09</born>
+        <age>38</age>
+        <draftYear>2006</draftYear>
+        <expCareer>4</expCareer>
+    </Player>
+    <Player>
+        <name>Mark Aguirre</name>
+        <position>Small Forward</position>
+        <college>DePaul</college>
+        <draftTeam>Dallas Mavericks</draftTeam>
+        <draftPos>1st pick</draftPos>
+        <born>1959-12-10</born>
+        <age>63</age>
+        <draftYear>1981</draftYear>
+        <expCareer>13</expCareer>
+    </Player>
+    <Player>
+        <name>Blake Ahearn</name>
+        <position>Point Guard</position>
+        <college>Missouri State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1984-05-27</born>
+        <age>38</age>
+        <draftYear>0</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Danny Ainge</name>
+        <position>Shooting Guard and Point Guard</position>
+        <college>BYU</college>
+        <draftTeam>Boston Celtics</draftTeam>
+        <draftPos>8th pick</draftPos>
+        <born>1959-03-17</born>
+        <age>63</age>
+        <draftYear>1981</draftYear>
+        <expCareer>14</expCareer>
+    </Player>
+    <Player>
+        <name>Matt Aitch</name>
+        <position>Power Forward</position>
+        <college>Moberly Area Community College, Michigan State</college>
+        <draftTeam>Detroit Pistons</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1944-09-21</born>
+        <age>62</age>
+        <draftYear>1967</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Alexis Ajinça</name>
+        <position>Center and Power Forward</position>
+        <college>none</college>
+        <draftTeam>Charlotte Bobcats</draftTeam>
+        <draftPos>20th pick</draftPos>
+        <born>1988-05-06</born>
+        <age>34</age>
+        <draftYear>2008</draftYear>
+        <expCareer>7</expCareer>
+    </Player>
+    <Player>
+        <name>Henry Akin</name>
+        <position>Power Forward and Center</position>
+        <college>Morehead State University</college>
+        <draftTeam>New York Knicks</draftTeam>
+        <draftPos>1st pick</draftPos>
+        <born>1944-07-31</born>
+        <age>75</age>
+        <draftYear>1966</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Josh Akognon</name>
+        <position>Point Guard</position>
+        <college>Washington State, Cal State Fullerton</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1986-02-10</born>
+        <age>36</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>DeVaughn Akoon-Purcell</name>
+        <position>Shooting Guard</position>
+        <college>Illinois State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1993-06-05</born>
+        <age>29</age>
+        <draftYear>0</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Solomon Alabi</name>
+        <position>Center</position>
+        <college>Florida State</college>
+        <draftTeam>Dallas Mavericks</draftTeam>
+        <draftPos>20th pick</draftPos>
+        <born>1988-03-21</born>
+        <age>34</age>
+        <draftYear>2010</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Mark Alarie</name>
+        <position>Power Forward</position>
+        <college>Duke</college>
+        <draftTeam>Denver Nuggets</draftTeam>
+        <draftPos>18th pick</draftPos>
+        <born>1963-12-11</born>
+        <age>59</age>
+        <draftYear>1986</draftYear>
+        <expCareer>5</expCareer>
+    </Player>
+    <Player>
+        <name>Gary Alcorn</name>
+        <position>Center</position>
+        <college>Fresno State</college>
+        <draftTeam>Minneapolis Lakers</draftTeam>
+        <draftPos>1st pick</draftPos>
+        <born>1936-10-08</born>
+        <age>70</age>
+        <draftYear>1959</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Santi Aldama</name>
+        <position>Power Forward</position>
+        <college>Loyola (MD)</college>
+        <draftTeam>Utah Jazz</draftTeam>
+        <draftPos>30th pick</draftPos>
+        <born>2001-01-10</born>
+        <age>21</age>
+        <draftYear>2021</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Furkan Aldemir</name>
+        <position>Power Forward</position>
+        <college>none</college>
+        <draftTeam>Los Angeles Clippers</draftTeam>
+        <draftPos>23rd pick</draftPos>
+        <born>1991-08-09</born>
+        <age>31</age>
+        <draftYear>2012</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Cole Aldrich</name>
+        <position>Center</position>
+        <college>Kansas</college>
+        <draftTeam>New Orleans Hornets</draftTeam>
+        <draftPos>11th pick</draftPos>
+        <born>1988-10-31</born>
+        <age>34</age>
+        <draftYear>2010</draftYear>
+        <expCareer>8</expCareer>
+    </Player>
+    <Player>
+        <name>LaMarcus Aldridge</name>
+        <position>Power Forward and Center</position>
+        <college>Texas</college>
+        <draftTeam>Chicago Bulls</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1985-07-19</born>
+        <age>37</age>
+        <draftYear>2006</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Chuck Aleksinas</name>
+        <position>Center</position>
+        <college>Kentucky, UConn</college>
+        <draftTeam>Chicago Bulls</draftTeam>
+        <draftPos>7th pick</draftPos>
+        <born>1959-02-26</born>
+        <age>63</age>
+        <draftYear>1982</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Cliff Alexander</name>
+        <position>Power Forward</position>
+        <college>Kansas</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1995-11-16</born>
+        <age>27</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Cory Alexander</name>
+        <position>Point Guard and Shooting Guard</position>
+        <college>Virginia</college>
+        <draftTeam>San Antonio Spurs</draftTeam>
+        <draftPos>29th pick</draftPos>
+        <born>1973-06-22</born>
+        <age>49</age>
+        <draftYear>1995</draftYear>
+        <expCareer>7</expCareer>
+    </Player>
+    <Player>
+        <name>Courtney Alexander</name>
+        <position>Point Guard and Shooting Guard</position>
+        <college>Virginia, Fresno State</college>
+        <draftTeam>Orlando Magic</draftTeam>
+        <draftPos>13th pick</draftPos>
+        <born>1977-04-27</born>
+        <age>45</age>
+        <draftYear>2000</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Gary Alexander</name>
+        <position>Power Forward</position>
+        <college>South Florida</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1969-11-01</born>
+        <age>53</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Joe Alexander</name>
+        <position>Small Forward</position>
+        <college>West Virginia</college>
+        <draftTeam>Milwaukee Bucks</draftTeam>
+        <draftPos>8th pick</draftPos>
+        <born>1986-12-26</born>
+        <age>35</age>
+        <draftYear>2008</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Kyle Alexander</name>
+        <position>Center</position>
+        <college>Tennessee</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1996-10-21</born>
+        <age>26</age>
+        <draftYear>0</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Ty-Shon Alexander</name>
+        <position>Shooting Guard</position>
+        <college>Creighton</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1998-07-16</born>
+        <age>24</age>
+        <draftYear>0</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Victor Alexander</name>
+        <position>Center</position>
+        <college>Iowa State</college>
+        <draftTeam>Golden State Warriors</draftTeam>
+        <draftPos>17th pick</draftPos>
+        <born>1969-08-31</born>
+        <age>53</age>
+        <draftYear>1991</draftYear>
+        <expCareer>5</expCareer>
+    </Player>
+    <Player>
+        <name>Nickeil Alexander-Walker</name>
+        <position>Shooting Guard</position>
+        <college>Virginia Tech</college>
+        <draftTeam>Brooklyn Nets</draftTeam>
+        <draftPos>17th pick</draftPos>
+        <born>1998-09-02</born>
+        <age>24</age>
+        <draftYear>2019</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Steve Alford</name>
+        <position>Point Guard</position>
+        <college>Indiana</college>
+        <draftTeam>Dallas Mavericks</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1964-11-23</born>
+        <age>58</age>
+        <draftYear>1987</draftYear>
+        <expCareer>4</expCareer>
+    </Player>
+    <Player>
+        <name>Rawle Alkins</name>
+        <position>Shooting Guard</position>
+        <college>Arizona</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1997-10-29</born>
+        <age>25</age>
+        <draftYear>0</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Bill Allen</name>
+        <position>Center</position>
+        <college>New Mexico State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1945</born>
+        <age>0</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Bob Allen</name>
+        <position>Power Forward</position>
+        <college>Marshall</college>
+        <draftTeam>San Francisco Warriors</draftTeam>
+        <draftPos>7th pick</draftPos>
+        <born>1946-07-17</born>
+        <age>76</age>
+        <draftYear>1968</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Grayson Allen</name>
+        <position>Shooting Guard</position>
+        <college>Duke</college>
+        <draftTeam>Utah Jazz</draftTeam>
+        <draftPos>21st pick</draftPos>
+        <born>1995-10-08</born>
+        <age>27</age>
+        <draftYear>2018</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Jarrett Allen</name>
+        <position>Center</position>
+        <college>Texas</college>
+        <draftTeam>Brooklyn Nets</draftTeam>
+        <draftPos>22nd pick</draftPos>
+        <born>1998-04-21</born>
+        <age>24</age>
+        <draftYear>2017</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Jerome Allen</name>
+        <position>Shooting Guard</position>
+        <college>Penn</college>
+        <draftTeam>Minnesota Timberwolves</draftTeam>
+        <draftPos>20th pick</draftPos>
+        <born>1973-01-28</born>
+        <age>49</age>
+        <draftYear>1995</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Kadeem Allen</name>
+        <position>Point Guard</position>
+        <college>Arizona</college>
+        <draftTeam>Boston Celtics</draftTeam>
+        <draftPos>23rd pick</draftPos>
+        <born>1993-01-15</born>
+        <age>29</age>
+        <draftYear>2017</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Lavoy Allen</name>
+        <position>Power Forward and Center</position>
+        <college>Temple</college>
+        <draftTeam>Philadelphia 76ers</draftTeam>
+        <draftPos>20th pick</draftPos>
+        <born>1989-02-04</born>
+        <age>33</age>
+        <draftYear>2011</draftYear>
+        <expCareer>6</expCareer>
+    </Player>
+    <Player>
+        <name>Lucius Allen</name>
+        <position>Point Guard</position>
+        <college>UCLA</college>
+        <draftTeam>Seattle SuperSonics</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1947-09-26</born>
+        <age>75</age>
+        <draftYear>1969</draftYear>
+        <expCareer>10</expCareer>
+    </Player>
+    <Player>
+        <name>Malik Allen</name>
+        <position>Power Forward</position>
+        <college>Villanova</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1978-06-27</born>
+        <age>44</age>
+        <draftYear>0</draftYear>
+        <expCareer>10</expCareer>
+    </Player>
+    <Player>
+        <name>Randy Allen</name>
+        <position>Shooting Guard</position>
+        <college>Florida State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1965-01-26</born>
+        <age>57</age>
+        <draftYear>0</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Ray Allen</name>
+        <position>Shooting Guard</position>
+        <college>UConn</college>
+        <draftTeam>Minnesota Timberwolves</draftTeam>
+        <draftPos>5th pick</draftPos>
+        <born>1975-07-20</born>
+        <age>47</age>
+        <draftYear>1996</draftYear>
+        <expCareer>18</expCareer>
+    </Player>
+    <Player>
+        <name>Tony Allen</name>
+        <position>Shooting Guard, Small Forward, and Point Guard</position>
+        <college>Butler County Community College, Oklahoma State</college>
+        <draftTeam>Boston Celtics</draftTeam>
+        <draftPos>25th pick</draftPos>
+        <born>1982-01-11</born>
+        <age>40</age>
+        <draftYear>2004</draftYear>
+        <expCareer>14</expCareer>
+    </Player>
+    <Player>
+        <name>Willie Allen</name>
+        <position>Power Forward</position>
+        <college>Miami (FL)</college>
+        <draftTeam>Baltimore Bullets</draftTeam>
+        <draftPos>9th pick</draftPos>
+        <born>1949-02-08</born>
+        <age>73</age>
+        <draftYear>1971</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Odis Allison</name>
+        <position>Small Forward</position>
+        <college>UNLV</college>
+        <draftTeam>Golden State Warriors</draftTeam>
+        <draftPos>8th pick</draftPos>
+        <born>1949-10-02</born>
+        <age>73</age>
+        <draftYear>1971</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Lance Allred</name>
+        <position>Center</position>
+        <college>Utah, Weber State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1981-02-02</born>
+        <age>41</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Darrell Allums</name>
+        <position>Power Forward</position>
+        <college>UCLA</college>
+        <draftTeam>Dallas Mavericks</draftTeam>
+        <draftPos>11th pick</draftPos>
+        <born>1958-09-12</born>
+        <age>64</age>
+        <draftYear>1980</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Morris Almond</name>
+        <position>Shooting Guard</position>
+        <college>Rice University</college>
+        <draftTeam>Utah Jazz</draftTeam>
+        <draftPos>25th pick</draftPos>
+        <born>1985-02-02</born>
+        <age>37</age>
+        <draftYear>2007</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Derrick Alston</name>
+        <position>Center</position>
+        <college>Duquesne</college>
+        <draftTeam>Philadelphia 76ers</draftTeam>
+        <draftPos>6th pick</draftPos>
+        <born>1972-08-20</born>
+        <age>50</age>
+        <draftYear>1994</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Rafer Alston</name>
+        <position>Point Guard</position>
+        <college>Fresno State</college>
+        <draftTeam>Milwaukee Bucks</draftTeam>
+        <draftPos>10th pick</draftPos>
+        <born>1976-07-24</born>
+        <age>46</age>
+        <draftYear>1998</draftYear>
+        <expCareer>11</expCareer>
+    </Player>
+    <Player>
+        <name>Peter Aluma</name>
+        <position>Center</position>
+        <college>Liberty</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1973-04-23</born>
+        <age>46</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Jose Alvarado</name>
+        <position>Point Guard</position>
+        <college>Georgia Tech</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1998-04-12</born>
+        <age>24</age>
+        <draftYear>0</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>John Amaechi</name>
+        <position>Center and Power Forward</position>
+        <college>Vanderbilt, Penn State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1970-11-26</born>
+        <age>52</age>
+        <draftYear>0</draftYear>
+        <expCareer>5</expCareer>
+    </Player>
+    <Player>
+        <name>Ashraf Amaya</name>
+        <position>Power Forward</position>
+        <college>Southern Illinois</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1971-11-23</born>
+        <age>51</age>
+        <draftYear>0</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Al-Farouq Aminu</name>
+        <position>Power Forward and Small Forward</position>
+        <college>Wake Forest</college>
+        <draftTeam>Los Angeles Clippers</draftTeam>
+        <draftPos>8th pick</draftPos>
+        <born>1990-09-21</born>
+        <age>32</age>
+        <draftYear>2010</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Lou Amundson</name>
+        <position>Power Forward</position>
+        <college>UNLV</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1982-12-07</born>
+        <age>40</age>
+        <draftYear>0</draftYear>
+        <expCareer>10</expCareer>
+    </Player>
+    <Player>
+        <name>Bob Anderegg</name>
+        <position>Small Forward</position>
+        <college>Michigan State</college>
+        <draftTeam>New York Knicks</draftTeam>
+        <draftPos>6th pick</draftPos>
+        <born>1937-08-24</born>
+        <age>85</age>
+        <draftYear>1959</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Chris Andersen</name>
+        <position>Center and Power Forward</position>
+        <college>Blinn College</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1978-07-07</born>
+        <age>44</age>
+        <draftYear>0</draftYear>
+        <expCareer>15</expCareer>
+    </Player>
+    <Player>
+        <name>David Andersen</name>
+        <position>Power Forward and Center</position>
+        <college>none</college>
+        <draftTeam>Atlanta Hawks</draftTeam>
+        <draftPos>8th pick</draftPos>
+        <born>1980-06-23</born>
+        <age>42</age>
+        <draftYear>2002</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Alan Anderson</name>
+        <position>Small Forward and Shooting Guard</position>
+        <college>Michigan State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1982-10-16</born>
+        <age>40</age>
+        <draftYear>0</draftYear>
+        <expCareer>8</expCareer>
+    </Player>
+    <Player>
+        <name>Andy Anderson</name>
+        <position>Shooting Guard and Point Guard</position>
+        <college>Canisius</college>
+        <draftTeam>Boston Celtics</draftTeam>
+        <draftPos>9th pick</draftPos>
+        <born>1945-07-06</born>
+        <age>73</age>
+        <draftYear>1967</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Antonio Anderson</name>
+        <position>Small Forward</position>
+        <college>Memphis</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1985-06-05</born>
+        <age>37</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Cliff Anderson</name>
+        <position>Shooting Guard</position>
+        <college>Saint Joseph's</college>
+        <draftTeam>Los Angeles Lakers</draftTeam>
+        <draftPos>4th pick</draftPos>
+        <born>1944-09-07</born>
+        <age>76</age>
+        <draftYear>1967</draftYear>
+        <expCareer>4</expCareer>
+    </Player>
+    <Player>
+        <name>Dan Anderson</name>
+        <position>Center</position>
+        <college>Augsburg College</college>
+        <draftTeam>Philadelphia 76ers</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1943-02-15</born>
+        <age>79</age>
+        <draftYear>1965</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Dan Anderson</name>
+        <position>Point Guard and Shooting Guard</position>
+        <college>USC</college>
+        <draftTeam>Portland Trail Blazers</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1951-01-01</born>
+        <age>71</age>
+        <draftYear>1974</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Derek Anderson</name>
+        <position>Shooting Guard, Small Forward, and Point Guard</position>
+        <college>Ohio State, Kentucky</college>
+        <draftTeam>Cleveland Cavaliers</draftTeam>
+        <draftPos>13th pick</draftPos>
+        <born>1974-07-18</born>
+        <age>48</age>
+        <draftYear>1997</draftYear>
+        <expCareer>11</expCareer>
+    </Player>
+    <Player>
+        <name>Dwight Anderson</name>
+        <position>Point Guard</position>
+        <college>Kentucky, USC</college>
+        <draftTeam>Washington Bullets</draftTeam>
+        <draftPos>18th pick</draftPos>
+        <born>1960-12-28</born>
+        <age>59</age>
+        <draftYear>1982</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Eric Anderson</name>
+        <position>Power Forward</position>
+        <college>Indiana</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1970-05-26</born>
+        <age>48</age>
+        <draftYear>0</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Greg Anderson</name>
+        <position>Power Forward and Center</position>
+        <college>Houston</college>
+        <draftTeam>San Antonio Spurs</draftTeam>
+        <draftPos>23rd pick</draftPos>
+        <born>1964-06-22</born>
+        <age>58</age>
+        <draftYear>1987</draftYear>
+        <expCareer>10</expCareer>
+    </Player>
+    <Player>
+        <name>J.J. Anderson</name>
+        <position>Small Forward</position>
+        <college>Bradley</college>
+        <draftTeam>Philadelphia 76ers</draftTeam>
+        <draftPos>13th pick</draftPos>
+        <born>1960-09-23</born>
+        <age>62</age>
+        <draftYear>1982</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>James Anderson</name>
+        <position>Shooting Guard and Small Forward</position>
+        <college>Oklahoma State</college>
+        <draftTeam>San Antonio Spurs</draftTeam>
+        <draftPos>20th pick</draftPos>
+        <born>1989-03-25</born>
+        <age>33</age>
+        <draftYear>2010</draftYear>
+        <expCareer>5</expCareer>
+    </Player>
+    <Player>
+        <name>Jerome Anderson</name>
+        <position>Shooting Guard</position>
+        <college>West Virginia</college>
+        <draftTeam>Boston Celtics</draftTeam>
+        <draftPos>17th pick</draftPos>
+        <born>1953-10-09</born>
+        <age>55</age>
+        <draftYear>1975</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Justin Anderson</name>
+        <position>Small Forward and Shooting Guard</position>
+        <college>Virginia</college>
+        <draftTeam>Dallas Mavericks</draftTeam>
+        <draftPos>21st pick</draftPos>
+        <born>1993-11-19</born>
+        <age>29</age>
+        <draftYear>2015</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Kenny Anderson</name>
+        <position>Point Guard</position>
+        <college>Georgia Tech</college>
+        <draftTeam>New Jersey Nets</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1970-10-09</born>
+        <age>52</age>
+        <draftYear>1991</draftYear>
+        <expCareer>14</expCareer>
+    </Player>
+    <Player>
+        <name>Kim Anderson</name>
+        <position>Small Forward</position>
+        <college>Missouri</college>
+        <draftTeam>Portland Trail Blazers</draftTeam>
+        <draftPos>6th pick</draftPos>
+        <born>1955-05-12</born>
+        <age>67</age>
+        <draftYear>1978</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Kyle Anderson</name>
+        <position>Small Forward and Power Forward</position>
+        <college>UCLA</college>
+        <draftTeam>San Antonio Spurs</draftTeam>
+        <draftPos>30th pick</draftPos>
+        <born>1993-09-20</born>
+        <age>29</age>
+        <draftYear>2014</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Michael Anderson</name>
+        <position>Point Guard</position>
+        <college>Drexel</college>
+        <draftTeam>Indiana Pacers</draftTeam>
+        <draftPos>23rd pick</draftPos>
+        <born>1966-03-23</born>
+        <age>56</age>
+        <draftYear>1988</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Nick Anderson</name>
+        <position>Shooting Guard and Small Forward</position>
+        <college>Illinois</college>
+        <draftTeam>Orlando Magic</draftTeam>
+        <draftPos>11th pick</draftPos>
+        <born>1968-01-20</born>
+        <age>54</age>
+        <draftYear>1989</draftYear>
+        <expCareer>13</expCareer>
+    </Player>
+    <Player>
+        <name>Richard Anderson</name>
+        <position>Power Forward and Center</position>
+        <college>UC Santa Barbara</college>
+        <draftTeam>San Diego Clippers</draftTeam>
+        <draftPos>9th pick</draftPos>
+        <born>1960-11-19</born>
+        <age>62</age>
+        <draftYear>1982</draftYear>
+        <expCareer>6</expCareer>
+    </Player>
+    <Player>
+        <name>Ron Anderson</name>
+        <position>Small Forward</position>
+        <college>Fresno State</college>
+        <draftTeam>Cleveland Cavaliers</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1958-10-15</born>
+        <age>64</age>
+        <draftYear>1984</draftYear>
+        <expCareer>10</expCareer>
+    </Player>
+    <Player>
+        <name>Ryan Anderson</name>
+        <position>Power Forward and Center</position>
+        <college>California</college>
+        <draftTeam>New Jersey Nets</draftTeam>
+        <draftPos>21st pick</draftPos>
+        <born>1988-05-06</born>
+        <age>34</age>
+        <draftYear>2008</draftYear>
+        <expCareer>12</expCareer>
+    </Player>
+    <Player>
+        <name>Shandon Anderson</name>
+        <position>Shooting Guard and Small Forward</position>
+        <college>Georgia</college>
+        <draftTeam>Utah Jazz</draftTeam>
+        <draftPos>25th pick</draftPos>
+        <born>1973-12-31</born>
+        <age>48</age>
+        <draftYear>1996</draftYear>
+        <expCareer>10</expCareer>
+    </Player>
+    <Player>
+        <name>Willie Anderson</name>
+        <position>Shooting Guard and Small Forward</position>
+        <college>Georgia</college>
+        <draftTeam>San Antonio Spurs</draftTeam>
+        <draftPos>10th pick</draftPos>
+        <born>1967-01-08</born>
+        <age>55</age>
+        <draftYear>1988</draftYear>
+        <expCareer>9</expCareer>
+    </Player>
+    <Player>
+        <name>Wally Anderzunas</name>
+        <position>Small Forward</position>
+        <college>Creighton</college>
+        <draftTeam>Detroit Pistons</draftTeam>
+        <draftPos>6th pick</draftPos>
+        <born>1946-01-11</born>
+        <age>43</age>
+        <draftYear>1969</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Martynas Andriuškevičius</name>
+        <position>Center</position>
+        <college>none</college>
+        <draftTeam>Orlando Magic</draftTeam>
+        <draftPos>14th pick</draftPos>
+        <born>1986-03-12</born>
+        <age>36</age>
+        <draftYear>2005</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Don Anielak</name>
+        <position>Forward</position>
+        <college>Missouri State</college>
+        <draftTeam>New York Knicks</draftTeam>
+        <draftPos>8th pick</draftPos>
+        <born>1930-11-01</born>
+        <age>65</age>
+        <draftYear>1954</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Ike Anigbogu</name>
+        <position>Center</position>
+        <college>UCLA</college>
+        <draftTeam>Indiana Pacers</draftTeam>
+        <draftPos>17th pick</draftPos>
+        <born>1998-10-17</born>
+        <age>24</age>
+        <draftYear>2017</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Michael Ansley</name>
+        <position>Small Forward</position>
+        <college>Alabama</college>
+        <draftTeam>Orlando Magic</draftTeam>
+        <draftPos>10th pick</draftPos>
+        <born>1967-02-08</born>
+        <age>55</age>
+        <draftYear>1989</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Chris Anstey</name>
+        <position>Center</position>
+        <college>none</college>
+        <draftTeam>Portland Trail Blazers</draftTeam>
+        <draftPos>18th pick</draftPos>
+        <born>1975-01-01</born>
+        <age>47</age>
+        <draftYear>1997</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Giannis Antetokounmpo</name>
+        <position>Power Forward, Small Forward, Point Guard, and Shooting Guard</position>
+        <college>none</college>
+        <draftTeam>Milwaukee Bucks</draftTeam>
+        <draftPos>15th pick</draftPos>
+        <born>1994-12-06</born>
+        <age>28</age>
+        <draftYear>2013</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Kostas Antetokounmpo</name>
+        <position>Power Forward</position>
+        <college>Dayton</college>
+        <draftTeam>Philadelphia 76ers</draftTeam>
+        <draftPos>30th pick</draftPos>
+        <born>1997-11-20</born>
+        <age>25</age>
+        <draftYear>2018</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Thanasis Antetokounmpo</name>
+        <position>Small Forward</position>
+        <college>none</college>
+        <draftTeam>New York Knicks</draftTeam>
+        <draftPos>21st pick</draftPos>
+        <born>1992-07-18</born>
+        <age>30</age>
+        <draftYear>2014</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Carmelo Anthony</name>
+        <position>Small Forward and Power Forward</position>
+        <college>Syracuse</college>
+        <draftTeam>Denver Nuggets</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1984-05-29</born>
+        <age>38</age>
+        <draftYear>2003</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Cole Anthony</name>
+        <position>Point Guard</position>
+        <college>UNC</college>
+        <draftTeam>Orlando Magic</draftTeam>
+        <draftPos>15th pick</draftPos>
+        <born>2000-05-15</born>
+        <age>22</age>
+        <draftYear>2020</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Greg Anthony</name>
+        <position>Point Guard</position>
+        <college>University of Portland, UNLV</college>
+        <draftTeam>New York Knicks</draftTeam>
+        <draftPos>12th pick</draftPos>
+        <born>1967-11-15</born>
+        <age>55</age>
+        <draftYear>1991</draftYear>
+        <expCareer>11</expCareer>
+    </Player>
+    <Player>
+        <name>Joel Anthony</name>
+        <position>Center and Power Forward</position>
+        <college>UNLV</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1982-08-09</born>
+        <age>40</age>
+        <draftYear>0</draftYear>
+        <expCareer>10</expCareer>
+    </Player>
+    <Player>
+        <name>Pero Antić</name>
+        <position>Center</position>
+        <college>none</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1982-07-29</born>
+        <age>40</age>
+        <draftYear>0</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>OG Anunoby</name>
+        <position>Small Forward</position>
+        <college>Indiana</college>
+        <draftTeam>Toronto Raptors</draftTeam>
+        <draftPos>23rd pick</draftPos>
+        <born>1997-07-17</born>
+        <age>25</age>
+        <draftYear>2017</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Keith Appling</name>
+        <position>Point Guard</position>
+        <college>Michigan State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1992-02-13</born>
+        <age>30</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Rafael Araújo</name>
+        <position>Center</position>
+        <college>BYU</college>
+        <draftTeam>Toronto Raptors</draftTeam>
+        <draftPos>8th pick</draftPos>
+        <born>1980-08-12</born>
+        <age>42</age>
+        <draftYear>2004</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Stacey Arceneaux</name>
+        <position>Forward</position>
+        <college>Iowa State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1936-02-17</born>
+        <age>79</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Robert Archibald</name>
+        <position>Power Forward and Center</position>
+        <college>Illinois</college>
+        <draftTeam>Memphis Grizzlies</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1980-03-29</born>
+        <age>39</age>
+        <draftYear>2002</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Tiny Archibald</name>
+        <position>Point Guard</position>
+        <college>Texas-El Paso</college>
+        <draftTeam>Cincinnati Royals</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1948-09-02</born>
+        <age>74</age>
+        <draftYear>1970</draftYear>
+        <expCareer>13</expCareer>
+    </Player>
+    <Player>
+        <name>Ryan Arcidiacono</name>
+        <position>Point Guard</position>
+        <college>Villanova</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1994-03-26</born>
+        <age>28</age>
+        <draftYear>0</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Jim Ard</name>
+        <position>Center</position>
+        <college>Cincinnati</college>
+        <draftTeam>Seattle SuperSonics</draftTeam>
+        <draftPos>6th pick</draftPos>
+        <born>1948-09-19</born>
+        <age>74</age>
+        <draftYear>1970</draftYear>
+        <expCareer>8</expCareer>
+    </Player>
+    <Player>
+        <name>Gilbert Arenas</name>
+        <position>Point Guard</position>
+        <college>Arizona</college>
+        <draftTeam>Golden State Warriors</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1982-01-06</born>
+        <age>40</age>
+        <draftYear>2001</draftYear>
+        <expCareer>11</expCareer>
+    </Player>
+    <Player>
+        <name>Trevor Ariza</name>
+        <position>Small Forward and Shooting Guard</position>
+        <college>UCLA</college>
+        <draftTeam>New York Knicks</draftTeam>
+        <draftPos>14th pick</draftPos>
+        <born>1985-06-30</born>
+        <age>37</age>
+        <draftYear>2004</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Paul Arizin</name>
+        <position>Small Forward</position>
+        <college>Villanova</college>
+        <draftTeam>Philadelphia Warriors</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1928-04-09</born>
+        <age>78</age>
+        <draftYear>1950</draftYear>
+        <expCareer>10</expCareer>
+    </Player>
+    <Player>
+        <name>Joe Arlauckas</name>
+        <position>Small Forward</position>
+        <college>Niagara University</college>
+        <draftTeam>Sacramento Kings</draftTeam>
+        <draftPos>5th pick</draftPos>
+        <born>1965-07-20</born>
+        <age>57</age>
+        <draftYear>1987</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>B.J. Armstrong</name>
+        <position>Point Guard</position>
+        <college>Iowa</college>
+        <draftTeam>Chicago Bulls</draftTeam>
+        <draftPos>18th pick</draftPos>
+        <born>1967-09-09</born>
+        <age>55</age>
+        <draftYear>1989</draftYear>
+        <expCareer>11</expCareer>
+    </Player>
+    <Player>
+        <name>Bob Armstrong</name>
+        <position>Center/Forward</position>
+        <college>Michigan State</college>
+        <draftTeam>Rochester Royals</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1933-06-17</born>
+        <age>82</age>
+        <draftYear>1955</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Brandon Armstrong</name>
+        <position>Shooting Guard</position>
+        <college>Pepperdine</college>
+        <draftTeam>Houston Rockets</draftTeam>
+        <draftPos>23rd pick</draftPos>
+        <born>1980-06-16</born>
+        <age>42</age>
+        <draftYear>2001</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Curly Armstrong</name>
+        <position>Guard/Forward</position>
+        <college>Indiana</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1918-11-01</born>
+        <age>64</age>
+        <draftYear>0</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Darrell Armstrong</name>
+        <position>Point Guard</position>
+        <college>Fayetteville State University</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1968-06-22</born>
+        <age>54</age>
+        <draftYear>0</draftYear>
+        <expCareer>14</expCareer>
+    </Player>
+    <Player>
+        <name>Hilton Armstrong</name>
+        <position>Center and Power Forward</position>
+        <college>UConn</college>
+        <draftTeam>New Orleans/Oklahoma City Hornets</draftTeam>
+        <draftPos>12th pick</draftPos>
+        <born>1984-11-11</born>
+        <age>38</age>
+        <draftYear>2006</draftYear>
+        <expCareer>6</expCareer>
+    </Player>
+    <Player>
+        <name>Tate Armstrong</name>
+        <position>Shooting Guard</position>
+        <college>Duke</college>
+        <draftTeam>Chicago Bulls</draftTeam>
+        <draftPos>13th pick</draftPos>
+        <born>1955-10-05</born>
+        <age>67</age>
+        <draftYear>1977</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Jesse Arnelle</name>
+        <position>Power Forward</position>
+        <college>Penn State</college>
+        <draftTeam>Fort Wayne Pistons</draftTeam>
+        <draftPos>7th pick</draftPos>
+        <born>1933-12-30</born>
+        <age>86</age>
+        <draftYear>1955</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Jay Arnette</name>
+        <position>Shooting Guard and Point Guard</position>
+        <college>Texas</college>
+        <draftTeam>Cincinnati Royals</draftTeam>
+        <draftPos>1st pick</draftPos>
+        <born>1938-12-19</born>
+        <age>83</age>
+        <draftYear>1960</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Bob Arnzen</name>
+        <position>Small Forward</position>
+        <college>Notre Dame</college>
+        <draftTeam>Detroit Pistons</draftTeam>
+        <draftPos>4th pick</draftPos>
+        <born>1947-11-03</born>
+        <age>75</age>
+        <draftYear>1969</draftYear>
+        <expCareer>4</expCareer>
+    </Player>
+    <Player>
+        <name>Carlos Arroyo</name>
+        <position>Point Guard and Shooting Guard</position>
+        <college>Florida International University</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1979-07-30</born>
+        <age>43</age>
+        <draftYear>0</draftYear>
+        <expCareer>9</expCareer>
+    </Player>
+    <Player>
+        <name>Darrell Arthur</name>
+        <position>Power Forward and Small Forward</position>
+        <college>Kansas</college>
+        <draftTeam>New Orleans Hornets</draftTeam>
+        <draftPos>27th pick</draftPos>
+        <born>1988-03-25</born>
+        <age>34</age>
+        <draftYear>2008</draftYear>
+        <expCareer>9</expCareer>
+    </Player>
+    <Player>
+        <name>John Arthurs</name>
+        <position>Guard</position>
+        <college>Tulane</college>
+        <draftTeam>Milwaukee Bucks</draftTeam>
+        <draftPos>2nd pick</draftPos>
+        <born>1947-08-15</born>
+        <age>75</age>
+        <draftYear>1969</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Jamel Artis</name>
+        <position>Shooting Guard</position>
+        <college>Pitt</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1993-01-12</born>
+        <age>29</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Ömer Aşık</name>
+        <position>Center</position>
+        <college>none</college>
+        <draftTeam>Portland Trail Blazers</draftTeam>
+        <draftPos>6th pick</draftPos>
+        <born>1986-07-04</born>
+        <age>36</age>
+        <draftYear>2008</draftYear>
+        <expCareer>8</expCareer>
+    </Player>
+    <Player>
+        <name>Vincent Askew</name>
+        <position>Shooting Guard</position>
+        <college>Memphis</college>
+        <draftTeam>Philadelphia 76ers</draftTeam>
+        <draftPos>16th pick</draftPos>
+        <born>1966-02-28</born>
+        <age>56</age>
+        <draftYear>1987</draftYear>
+        <expCareer>9</expCareer>
+    </Player>
+    <Player>
+        <name>Keith Askins</name>
+        <position>Small Forward</position>
+        <college>Alabama</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1967-12-15</born>
+        <age>54</age>
+        <draftYear>0</draftYear>
+        <expCareer>9</expCareer>
+    </Player>
+    <Player>
+        <name>Don Asmonga</name>
+        <position>Guard</position>
+        <college>Alliance College</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1928-02-15</born>
+        <age>85</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Dick Atha</name>
+        <position>Shooting Guard</position>
+        <college>Indiana State University</college>
+        <draftTeam>New York Knicks</draftTeam>
+        <draftPos>3rd round</draftPos>
+        <born>1931-09-21</born>
+        <age>88</age>
+        <draftYear>1953</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Chucky Atkins</name>
+        <position>Point Guard and Shooting Guard</position>
+        <college>South Florida</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1974-08-14</born>
+        <age>48</age>
+        <draftYear>0</draftYear>
+        <expCareer>11</expCareer>
+    </Player>
+    <Player>
+        <name>Al Attles</name>
+        <position>Point Guard</position>
+        <college>North Carolina A&amp;T</college>
+        <draftTeam>Philadelphia Warriors</draftTeam>
+        <draftPos>7th pick</draftPos>
+        <born>1936-11-07</born>
+        <age>86</age>
+        <draftYear>1960</draftYear>
+        <expCareer>11</expCareer>
+    </Player>
+    <Player>
+        <name>Chet Aubuchon</name>
+        <position>Guard</position>
+        <college>Michigan State</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1916-05-18</born>
+        <age>88</age>
+        <draftYear>0</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Stacey Augmon</name>
+        <position>Shooting Guard and Small Forward</position>
+        <college>UNLV</college>
+        <draftTeam>Atlanta Hawks</draftTeam>
+        <draftPos>9th pick</draftPos>
+        <born>1968-08-01</born>
+        <age>54</age>
+        <draftYear>1991</draftYear>
+        <expCareer>15</expCareer>
+    </Player>
+    <Player>
+        <name>D.J. Augustin</name>
+        <position>Point Guard</position>
+        <college>Texas</college>
+        <draftTeam>Charlotte Bobcats</draftTeam>
+        <draftPos>9th pick</draftPos>
+        <born>1987-11-10</born>
+        <age>35</age>
+        <draftYear>2008</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>James Augustine</name>
+        <position>Power Forward</position>
+        <college>Illinois</college>
+        <draftTeam>Orlando Magic</draftTeam>
+        <draftPos>11th pick</draftPos>
+        <born>1984-02-27</born>
+        <age>38</age>
+        <draftYear>2006</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Isaac Austin</name>
+        <position>Center</position>
+        <college>Arizona State</college>
+        <draftTeam>Utah Jazz</draftTeam>
+        <draftPos>21st pick</draftPos>
+        <born>1969-08-18</born>
+        <age>53</age>
+        <draftYear>1991</draftYear>
+        <expCareer>9</expCareer>
+    </Player>
+    <Player>
+        <name>Johnny Austin</name>
+        <position>Shooting Guard</position>
+        <college>Boston College</college>
+        <draftTeam>Boston Celtics</draftTeam>
+        <draftPos>8th pick</draftPos>
+        <born>1944-08-31</born>
+        <age>78</age>
+        <draftYear>1966</draftYear>
+        <expCareer>2</expCareer>
+    </Player>
+    <Player>
+        <name>Ken Austin</name>
+        <position>Small Forward</position>
+        <college>Rice University</college>
+        <draftTeam>Detroit Pistons</draftTeam>
+        <draftPos>8th pick</draftPos>
+        <born>1961-07-15</born>
+        <age>61</age>
+        <draftYear>1983</draftYear>
+        <expCareer>1</expCareer>
+    </Player>
+    <Player>
+        <name>Deni Avdija</name>
+        <position>Small Forward</position>
+        <college>none</college>
+        <draftTeam>Washington Wizards</draftTeam>
+        <draftPos>9th pick</draftPos>
+        <born>2001-01-03</born>
+        <age>21</age>
+        <draftYear>2020</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Anthony Avent</name>
+        <position>Power Forward</position>
+        <college>Seton Hall</college>
+        <draftTeam>Atlanta Hawks</draftTeam>
+        <draftPos>15th pick</draftPos>
+        <born>1969-10-18</born>
+        <age>53</age>
+        <draftYear>1991</draftYear>
+        <expCareer>6</expCareer>
+    </Player>
+    <Player>
+        <name>Bird Averitt</name>
+        <position>Shooting Guard</position>
+        <college>Pepperdine</college>
+        <draftTeam>Portland Trail Blazers</draftTeam>
+        <draftPos>3rd pick</draftPos>
+        <born>1952-07-22</born>
+        <age>68</age>
+        <draftYear>1973</draftYear>
+        <expCareer>5</expCareer>
+    </Player>
+    <Player>
+        <name>William Avery</name>
+        <position>Point Guard</position>
+        <college>Duke</college>
+        <draftTeam>Minnesota Timberwolves</draftTeam>
+        <draftPos>14th pick</draftPos>
+        <born>1979-08-08</born>
+        <age>43</age>
+        <draftYear>1999</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Dennis Awtrey</name>
+        <position>Center</position>
+        <college>Santa Clara</college>
+        <draftTeam>Philadelphia 76ers</draftTeam>
+        <draftPos>12th pick</draftPos>
+        <born>1948-02-22</born>
+        <age>74</age>
+        <draftYear>1970</draftYear>
+        <expCareer>12</expCareer>
+    </Player>
+    <Player>
+        <name>Joel Ayayi</name>
+        <position>Shooting Guard</position>
+        <college>Gonzaga</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>2000-03-05</born>
+        <age>22</age>
+        <draftYear>0</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Gustavo Ayón</name>
+        <position>Center and Power Forward</position>
+        <college>none</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1985-04-01</born>
+        <age>37</age>
+        <draftYear>0</draftYear>
+        <expCareer>3</expCareer>
+    </Player>
+    <Player>
+        <name>Jeff Ayres</name>
+        <position>Power Forward and Center</position>
+        <college>Arizona State</college>
+        <draftTeam>Sacramento Kings</draftTeam>
+        <draftPos>1st pick</draftPos>
+        <born>1987-04-29</born>
+        <age>35</age>
+        <draftYear>2009</draftYear>
+        <expCareer>6</expCareer>
+    </Player>
+    <Player>
+        <name>Deandre Ayton</name>
+        <position>Center</position>
+        <college>Arizona</college>
+        <draftTeam>Phoenix Suns</draftTeam>
+        <draftPos>1st pick</draftPos>
+        <born>1998-07-23</born>
+        <age>24</age>
+        <draftYear>2018</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+    <Player>
+        <name>Kelenna Azubuike</name>
+        <position>Shooting Guard and Small Forward</position>
+        <college>Kentucky</college>
+        <draftTeam>none</draftTeam>
+        <draftPos>none</draftPos>
+        <born>1983-12-16</born>
+        <age>38</age>
+        <draftYear>0</draftYear>
+        <expCareer>5</expCareer>
+    </Player>
+    <Player>
+        <name>Udoka Azubuike</name>
+        <position>Center</position>
+        <college>Kansas</college>
+        <draftTeam>Utah Jazz</draftTeam>
+        <draftPos>27th pick</draftPos>
+        <born>1999-09-17</born>
+        <age>23</age>
+        <draftYear>2020</draftYear>
+        <expCareer>0</expCareer>
+    </Player>
+</NBAPlayers>

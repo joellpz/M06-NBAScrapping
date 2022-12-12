@@ -2,5 +2,12 @@
  * Objeto para definir la Conferencia
  */
 public enum Conference {
-    WESTERN, EASTERN
+    /**
+     * Western Conference
+     */
+    WESTERN,
+    /**
+     * Eastern Conference
+     */
+    EASTERN
 }

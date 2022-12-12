@@ -1,23 +1,31 @@
+import jakarta.xml.bind.annotation.*;
+
 /**
  * Clase que contiene las propiedades sobre una Temporada
  */
+@XmlRootElement(name = "Season")
+
 public class Season {
-    private final String year;
-
-    private final String league;
-    private final String champion;
-
-    private final String MVP;
-    private final String ROTY;
-    private final String PPG_Leader;
-    private final String RGP_Leader;
-    private final String APG_Leader;
-    private final String WS_Leader;
-    private final String link;
-
-    /*
-     * With MVP and Rookie Of The Year
-     * */
+    @XmlAttribute
+    private String year;
+    @XmlElement
+    private String league;
+    @XmlElement
+    private String champion;
+    @XmlElement
+    private String MVP;
+    @XmlElement
+    private String ROTY;
+    @XmlElement
+    private String PPG_Leader;
+    @XmlElement
+    private String RGP_Leader;
+    @XmlElement
+    private String APG_Leader;
+    @XmlElement
+    private String WS_Leader;
+    @XmlElement
+    private String link;
 
     /**
      * Permite definir las caracteristicas de la temporada en su objeto
@@ -45,6 +53,11 @@ public class Season {
         this.link = link;
     }
 
+    /**
+     * Constructor para JAXB
+     */
+    public Season() {
+    }
 
     /**
      * Devuelve como cadena de caracteres los atributos de la clase.
@@ -72,6 +85,15 @@ public class Season {
      */
     public String getYear() {
         return year;
+    }
+
+
+    /**
+     * Devuelve la Liga de la Temporada.
+     * @return String Liga
+     */
+    public String getLeague() {
+        return league;
     }
 
     /**

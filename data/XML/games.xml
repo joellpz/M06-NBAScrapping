@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NBAGames>
+    <Game id="1">
+        <date>Sat, May 22, 2021</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>107</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>109</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105220MIL.html</link>
+    </Game>
+    <Game id="2">
+        <date>Sat, May 22, 2021</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>113</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105220LAC.html</link>
+    </Game>
+    <Game id="3">
+        <date>Sat, May 22, 2021</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>93</pointsVisitor>
+        <teamLocal>Brooklyn Nets</teamLocal>
+        <pointsLocal>104</pointsLocal>
+        <arena>Barclays Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105220BRK.html</link>
+    </Game>
+    <Game id="4">
+        <date>Sat, May 22, 2021</date>
+        <teamVisitor>Portland Trail Blazers</teamVisitor>
+        <pointsVisitor>123</pointsVisitor>
+        <teamLocal>Denver Nuggets</teamLocal>
+        <pointsLocal>109</pointsLocal>
+        <arena>Ball Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105220DEN.html</link>
+    </Game>
+    <Game id="5">
+        <date>Sun, May 23, 2021</date>
+        <teamVisitor>Washington Wizards</teamVisitor>
+        <pointsVisitor>118</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>125</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105230PHI.html</link>
+    </Game>
+    <Game id="6">
+        <date>Sun, May 23, 2021</date>
+        <teamVisitor>Los Angeles Lakers</teamVisitor>
+        <pointsVisitor>90</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>99</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105230PHO.html</link>
+    </Game>
+    <Game id="7">
+        <date>Sun, May 23, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>107</pointsVisitor>
+        <teamLocal>New York Knicks</teamLocal>
+        <pointsLocal>105</pointsLocal>
+        <arena>Madison Square Garden (IV)</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105230NYK.html</link>
+    </Game>
+    <Game id="8">
+        <date>Sun, May 23, 2021</date>
+        <teamVisitor>Memphis Grizzlies</teamVisitor>
+        <pointsVisitor>112</pointsVisitor>
+        <teamLocal>Utah Jazz</teamLocal>
+        <pointsLocal>109</pointsLocal>
+        <arena>Vivint Smart Home Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105230UTA.html</link>
+    </Game>
+    <Game id="9">
+        <date>Mon, May 24, 2021</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>98</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>132</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105240MIL.html</link>
+    </Game>
+    <Game id="10">
+        <date>Mon, May 24, 2021</date>
+        <teamVisitor>Portland Trail Blazers</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Denver Nuggets</teamLocal>
+        <pointsLocal>128</pointsLocal>
+        <arena>Ball Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105240DEN.html</link>
+    </Game>
+    <Game id="11">
+        <date>Tue, May 25, 2021</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>108</pointsVisitor>
+        <teamLocal>Brooklyn Nets</teamLocal>
+        <pointsLocal>130</pointsLocal>
+        <arena>Barclays Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105250BRK.html</link>
+    </Game>
+    <Game id="12">
+        <date>Tue, May 25, 2021</date>
+        <teamVisitor>Los Angeles Lakers</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>102</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105250PHO.html</link>
+    </Game>
+    <Game id="13">
+        <date>Tue, May 25, 2021</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>127</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>121</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105250LAC.html</link>
+    </Game>
+    <Game id="14">
+        <date>Wed, May 26, 2021</date>
+        <teamVisitor>Washington Wizards</teamVisitor>
+        <pointsVisitor>95</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>120</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105260PHI.html</link>
+    </Game>
+    <Game id="15">
+        <date>Wed, May 26, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>92</pointsVisitor>
+        <teamLocal>New York Knicks</teamLocal>
+        <pointsLocal>101</pointsLocal>
+        <arena>Madison Square Garden (IV)</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105260NYK.html</link>
+    </Game>
+    <Game id="16">
+        <date>Wed, May 26, 2021</date>
+        <teamVisitor>Memphis Grizzlies</teamVisitor>
+        <pointsVisitor>129</pointsVisitor>
+        <teamLocal>Utah Jazz</teamLocal>
+        <pointsLocal>141</pointsLocal>
+        <arena>Vivint Smart Home Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105260UTA.html</link>
+    </Game>
+    <Game id="17">
+        <date>Thu, May 27, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>113</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>84</pointsLocal>
+        <arena>AmericanAirlines Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105270MIA.html</link>
+    </Game>
+    <Game id="18">
+        <date>Thu, May 27, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>95</pointsVisitor>
+        <teamLocal>Los Angeles Lakers</teamLocal>
+        <pointsLocal>109</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105270LAL.html</link>
+    </Game>
+    <Game id="19">
+        <date>Thu, May 27, 2021</date>
+        <teamVisitor>Denver Nuggets</teamVisitor>
+        <pointsVisitor>120</pointsVisitor>
+        <teamLocal>Portland Trail Blazers</teamLocal>
+        <pointsLocal>115</pointsLocal>
+        <arena>Moda Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105270POR.html</link>
+    </Game>
+    <Game id="20">
+        <date>Fri, May 28, 2021</date>
+        <teamVisitor>New York Knicks</teamVisitor>
+        <pointsVisitor>94</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>105</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105280ATL.html</link>
+    </Game>
+    <Game id="21">
+        <date>Fri, May 28, 2021</date>
+        <teamVisitor>Brooklyn Nets</teamVisitor>
+        <pointsVisitor>119</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>125</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105280BOS.html</link>
+    </Game>
+    <Game id="22">
+        <date>Fri, May 28, 2021</date>
+        <teamVisitor>Los Angeles Clippers</teamVisitor>
+        <pointsVisitor>118</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>108</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105280DAL.html</link>
+    </Game>
+    <Game id="23">
+        <date>Sat, May 29, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>120</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>AmericanAirlines Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105290MIA.html</link>
+    </Game>
+    <Game id="24">
+        <date>Sat, May 29, 2021</date>
+        <teamVisitor>Denver Nuggets</teamVisitor>
+        <pointsVisitor>95</pointsVisitor>
+        <teamLocal>Portland Trail Blazers</teamLocal>
+        <pointsLocal>115</pointsLocal>
+        <arena>Moda Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105290POR.html</link>
+    </Game>
+    <Game id="25">
+        <date>Sat, May 29, 2021</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>132</pointsVisitor>
+        <teamLocal>Washington Wizards</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>Capital One Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105290WAS.html</link>
+    </Game>
+    <Game id="26">
+        <date>Sat, May 29, 2021</date>
+        <teamVisitor>Utah Jazz</teamVisitor>
+        <pointsVisitor>121</pointsVisitor>
+        <teamLocal>Memphis Grizzlies</teamLocal>
+        <pointsLocal>111</pointsLocal>
+        <arena>FedEx Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105290MEM.html</link>
+    </Game>
+    <Game id="27">
+        <date>Sun, May 30, 2021</date>
+        <teamVisitor>New York Knicks</teamVisitor>
+        <pointsVisitor>96</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>113</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105300ATL.html</link>
+    </Game>
+    <Game id="28">
+        <date>Sun, May 30, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>100</pointsVisitor>
+        <teamLocal>Los Angeles Lakers</teamLocal>
+        <pointsLocal>92</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105300LAL.html</link>
+    </Game>
+    <Game id="29">
+        <date>Sun, May 30, 2021</date>
+        <teamVisitor>Brooklyn Nets</teamVisitor>
+        <pointsVisitor>141</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>126</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105300BOS.html</link>
+    </Game>
+    <Game id="30">
+        <date>Sun, May 30, 2021</date>
+        <teamVisitor>Los Angeles Clippers</teamVisitor>
+        <pointsVisitor>106</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>81</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105300DAL.html</link>
+    </Game>
+    <Game id="31">
+        <date>Mon, May 31, 2021</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>114</pointsVisitor>
+        <teamLocal>Washington Wizards</teamLocal>
+        <pointsLocal>122</pointsLocal>
+        <arena>Capital One Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105310WAS.html</link>
+    </Game>
+    <Game id="32">
+        <date>Mon, May 31, 2021</date>
+        <teamVisitor>Utah Jazz</teamVisitor>
+        <pointsVisitor>120</pointsVisitor>
+        <teamLocal>Memphis Grizzlies</teamLocal>
+        <pointsLocal>113</pointsLocal>
+        <arena>FedEx Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202105310MEM.html</link>
+    </Game>
+    <Game id="33">
+        <date>Tue, Jun 1, 2021</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Brooklyn Nets</teamLocal>
+        <pointsLocal>123</pointsLocal>
+        <arena>Barclays Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106010BRK.html</link>
+    </Game>
+    <Game id="34">
+        <date>Tue, Jun 1, 2021</date>
+        <teamVisitor>Portland Trail Blazers</teamVisitor>
+        <pointsVisitor>140</pointsVisitor>
+        <teamLocal>Denver Nuggets</teamLocal>
+        <pointsLocal>147</pointsLocal>
+        <arena>Ball Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106010DEN.html</link>
+    </Game>
+    <Game id="35">
+        <date>Tue, Jun 1, 2021</date>
+        <teamVisitor>Los Angeles Lakers</teamVisitor>
+        <pointsVisitor>85</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>115</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106010PHO.html</link>
+    </Game>
+    <Game id="36">
+        <date>Wed, Jun 2, 2021</date>
+        <teamVisitor>Washington Wizards</teamVisitor>
+        <pointsVisitor>112</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>129</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106020PHI.html</link>
+    </Game>
+    <Game id="37">
+        <date>Wed, Jun 2, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>103</pointsVisitor>
+        <teamLocal>New York Knicks</teamLocal>
+        <pointsLocal>89</pointsLocal>
+        <arena>Madison Square Garden (IV)</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106020NYK.html</link>
+    </Game>
+    <Game id="38">
+        <date>Wed, Jun 2, 2021</date>
+        <teamVisitor>Memphis Grizzlies</teamVisitor>
+        <pointsVisitor>110</pointsVisitor>
+        <teamLocal>Utah Jazz</teamLocal>
+        <pointsLocal>126</pointsLocal>
+        <arena>Vivint Smart Home Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106020UTA.html</link>
+    </Game>
+    <Game id="39">
+        <date>Wed, Jun 2, 2021</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>105</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>100</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106020LAC.html</link>
+    </Game>
+    <Game id="40">
+        <date>Thu, Jun 3, 2021</date>
+        <teamVisitor>Denver Nuggets</teamVisitor>
+        <pointsVisitor>126</pointsVisitor>
+        <teamLocal>Portland Trail Blazers</teamLocal>
+        <pointsLocal>115</pointsLocal>
+        <arena>Moda Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106030POR.html</link>
+    </Game>
+    <Game id="41">
+        <date>Thu, Jun 3, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>113</pointsVisitor>
+        <teamLocal>Los Angeles Lakers</teamLocal>
+        <pointsLocal>100</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106030LAL.html</link>
+    </Game>
+    <Game id="42">
+        <date>Fri, Jun 4, 2021</date>
+        <teamVisitor>Los Angeles Clippers</teamVisitor>
+        <pointsVisitor>104</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>97</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106040DAL.html</link>
+    </Game>
+    <Game id="43">
+        <date>Sat, Jun 5, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>107</pointsVisitor>
+        <teamLocal>Brooklyn Nets</teamLocal>
+        <pointsLocal>115</pointsLocal>
+        <arena>Barclays Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106050BRK.html</link>
+    </Game>
+    <Game id="44">
+        <date>Sun, Jun 6, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>128</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>124</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106060PHI.html</link>
+    </Game>
+    <Game id="45">
+        <date>Sun, Jun 6, 2021</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>111</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>126</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106060LAC.html</link>
+    </Game>
+    <Game id="46">
+        <date>Mon, Jun 7, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>86</pointsVisitor>
+        <teamLocal>Brooklyn Nets</teamLocal>
+        <pointsLocal>125</pointsLocal>
+        <arena>Barclays Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106070BRK.html</link>
+    </Game>
+    <Game id="47">
+        <date>Mon, Jun 7, 2021</date>
+        <teamVisitor>Denver Nuggets</teamVisitor>
+        <pointsVisitor>105</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>122</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106070PHO.html</link>
+    </Game>
+    <Game id="48">
+        <date>Tue, Jun 8, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>102</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>118</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106080PHI.html</link>
+    </Game>
+    <Game id="49">
+        <date>Tue, Jun 8, 2021</date>
+        <teamVisitor>Los Angeles Clippers</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Utah Jazz</teamLocal>
+        <pointsLocal>112</pointsLocal>
+        <arena>Vivint Smart Home Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106080UTA.html</link>
+    </Game>
+    <Game id="50">
+        <date>Wed, Jun 9, 2021</date>
+        <teamVisitor>Denver Nuggets</teamVisitor>
+        <pointsVisitor>98</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>123</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106090PHO.html</link>
+    </Game>
+    <Game id="51">
+        <date>Thu, Jun 10, 2021</date>
+        <teamVisitor>Brooklyn Nets</teamVisitor>
+        <pointsVisitor>83</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>86</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106100MIL.html</link>
+    </Game>
+    <Game id="52">
+        <date>Thu, Jun 10, 2021</date>
+        <teamVisitor>Los Angeles Clippers</teamVisitor>
+        <pointsVisitor>111</pointsVisitor>
+        <teamLocal>Utah Jazz</teamLocal>
+        <pointsLocal>117</pointsLocal>
+        <arena>Vivint Smart Home Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106100UTA.html</link>
+    </Game>
+    <Game id="53">
+        <date>Fri, Jun 11, 2021</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>127</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>111</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106110ATL.html</link>
+    </Game>
+    <Game id="54">
+        <date>Fri, Jun 11, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>116</pointsVisitor>
+        <teamLocal>Denver Nuggets</teamLocal>
+        <pointsLocal>102</pointsLocal>
+        <arena>Ball Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106110DEN.html</link>
+    </Game>
+    <Game id="55">
+        <date>Sat, Jun 12, 2021</date>
+        <teamVisitor>Utah Jazz</teamVisitor>
+        <pointsVisitor>106</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>132</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106120LAC.html</link>
+    </Game>
+    <Game id="56">
+        <date>Sun, Jun 13, 2021</date>
+        <teamVisitor>Brooklyn Nets</teamVisitor>
+        <pointsVisitor>96</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>107</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106130MIL.html</link>
+    </Game>
+    <Game id="57">
+        <date>Sun, Jun 13, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>125</pointsVisitor>
+        <teamLocal>Denver Nuggets</teamLocal>
+        <pointsLocal>118</pointsLocal>
+        <arena>Ball Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106130DEN.html</link>
+    </Game>
+    <Game id="58">
+        <date>Mon, Jun 14, 2021</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>100</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106140ATL.html</link>
+    </Game>
+    <Game id="59">
+        <date>Mon, Jun 14, 2021</date>
+        <teamVisitor>Utah Jazz</teamVisitor>
+        <pointsVisitor>104</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>118</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106140LAC.html</link>
+    </Game>
+    <Game id="60">
+        <date>Tue, Jun 15, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>108</pointsVisitor>
+        <teamLocal>Brooklyn Nets</teamLocal>
+        <pointsLocal>114</pointsLocal>
+        <arena>Barclays Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106150BRK.html</link>
+    </Game>
+    <Game id="61">
+        <date>Wed, Jun 16, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>106</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106160PHI.html</link>
+    </Game>
+    <Game id="62">
+        <date>Wed, Jun 16, 2021</date>
+        <teamVisitor>Los Angeles Clippers</teamVisitor>
+        <pointsVisitor>119</pointsVisitor>
+        <teamLocal>Utah Jazz</teamLocal>
+        <pointsLocal>111</pointsLocal>
+        <arena>Vivint Smart Home Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106160UTA.html</link>
+    </Game>
+    <Game id="63">
+        <date>Thu, Jun 17, 2021</date>
+        <teamVisitor>Brooklyn Nets</teamVisitor>
+        <pointsVisitor>89</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>104</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106170MIL.html</link>
+    </Game>
+    <Game id="64">
+        <date>Fri, Jun 18, 2021</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>104</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>99</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106180ATL.html</link>
+    </Game>
+    <Game id="65">
+        <date>Fri, Jun 18, 2021</date>
+        <teamVisitor>Utah Jazz</teamVisitor>
+        <pointsVisitor>119</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>131</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106180LAC.html</link>
+    </Game>
+    <Game id="66">
+        <date>Sat, Jun 19, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>115</pointsVisitor>
+        <teamLocal>Brooklyn Nets</teamLocal>
+        <pointsLocal>111</pointsLocal>
+        <arena>Barclays Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106190BRK.html</link>
+    </Game>
+    <Game id="67">
+        <date>Sun, Jun 20, 2021</date>
+        <teamVisitor>Los Angeles Clippers</teamVisitor>
+        <pointsVisitor>114</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>120</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106200PHO.html</link>
+    </Game>
+    <Game id="68">
+        <date>Sun, Jun 20, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>103</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>96</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106200PHI.html</link>
+    </Game>
+    <Game id="69">
+        <date>Tue, Jun 22, 2021</date>
+        <teamVisitor>Los Angeles Clippers</teamVisitor>
+        <pointsVisitor>103</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>104</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106220PHO.html</link>
+    </Game>
+    <Game id="70">
+        <date>Wed, Jun 23, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>116</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>113</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106230MIL.html</link>
+    </Game>
+    <Game id="71">
+        <date>Thu, Jun 24, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>92</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>106</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106240LAC.html</link>
+    </Game>
+    <Game id="72">
+        <date>Fri, Jun 25, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>91</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>125</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106250MIL.html</link>
+    </Game>
+    <Game id="73">
+        <date>Sat, Jun 26, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>84</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>80</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106260LAC.html</link>
+    </Game>
+    <Game id="74">
+        <date>Sun, Jun 27, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>113</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>102</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106270ATL.html</link>
+    </Game>
+    <Game id="75">
+        <date>Mon, Jun 28, 2021</date>
+        <teamVisitor>Los Angeles Clippers</teamVisitor>
+        <pointsVisitor>116</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>102</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106280PHO.html</link>
+    </Game>
+    <Game id="76">
+        <date>Tue, Jun 29, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>88</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>110</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106290ATL.html</link>
+    </Game>
+    <Game id="77">
+        <date>Wed, Jun 30, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>130</pointsVisitor>
+        <teamLocal>Los Angeles Clippers</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>STAPLES Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202106300LAC.html</link>
+    </Game>
+    <Game id="78">
+        <date>Thu, Jul 1, 2021</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>112</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>123</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202107010MIL.html</link>
+    </Game>
+    <Game id="79">
+        <date>Sat, Jul 3, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>118</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>107</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202107030ATL.html</link>
+    </Game>
+    <Game id="80">
+        <date>Tue, Jul 6, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>105</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>118</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202107060PHO.html</link>
+    </Game>
+    <Game id="81">
+        <date>Thu, Jul 8, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>108</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>118</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202107080PHO.html</link>
+    </Game>
+    <Game id="82">
+        <date>Sun, Jul 11, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>100</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>120</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202107110MIL.html</link>
+    </Game>
+    <Game id="83">
+        <date>Wed, Jul 14, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>103</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>109</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202107140MIL.html</link>
+    </Game>
+    <Game id="84">
+        <date>Sat, Jul 17, 2021</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>123</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>119</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202107170PHO.html</link>
+    </Game>
+    <Game id="85">
+        <date>Tue, Jul 20, 2021</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>98</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>105</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202107200MIL.html</link>
+    </Game>
+    <Game id="86">
+        <date>Sat, Apr 16, 2022</date>
+        <teamVisitor>Utah Jazz</teamVisitor>
+        <pointsVisitor>99</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>93</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204160DAL.html</link>
+    </Game>
+    <Game id="87">
+        <date>Sat, Apr 16, 2022</date>
+        <teamVisitor>Minnesota Timberwolves</teamVisitor>
+        <pointsVisitor>130</pointsVisitor>
+        <teamLocal>Memphis Grizzlies</teamLocal>
+        <pointsLocal>117</pointsLocal>
+        <arena>FedEx Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204160MEM.html</link>
+    </Game>
+    <Game id="88">
+        <date>Sat, Apr 16, 2022</date>
+        <teamVisitor>Toronto Raptors</teamVisitor>
+        <pointsVisitor>111</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>131</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204160PHI.html</link>
+    </Game>
+    <Game id="89">
+        <date>Sat, Apr 16, 2022</date>
+        <teamVisitor>Denver Nuggets</teamVisitor>
+        <pointsVisitor>107</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>123</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204160GSW.html</link>
+    </Game>
+    <Game id="90">
+        <date>Sun, Apr 17, 2022</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>91</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>115</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204170MIA.html</link>
+    </Game>
+    <Game id="91">
+        <date>Sun, Apr 17, 2022</date>
+        <teamVisitor>Brooklyn Nets</teamVisitor>
+        <pointsVisitor>114</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>115</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204170BOS.html</link>
+    </Game>
+    <Game id="92">
+        <date>Sun, Apr 17, 2022</date>
+        <teamVisitor>Chicago Bulls</teamVisitor>
+        <pointsVisitor>86</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>93</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204170MIL.html</link>
+    </Game>
+    <Game id="93">
+        <date>Sun, Apr 17, 2022</date>
+        <teamVisitor>New Orleans Pelicans</teamVisitor>
+        <pointsVisitor>99</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>110</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204170PHO.html</link>
+    </Game>
+    <Game id="94">
+        <date>Mon, Apr 18, 2022</date>
+        <teamVisitor>Toronto Raptors</teamVisitor>
+        <pointsVisitor>97</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>112</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204180PHI.html</link>
+    </Game>
+    <Game id="95">
+        <date>Mon, Apr 18, 2022</date>
+        <teamVisitor>Utah Jazz</teamVisitor>
+        <pointsVisitor>104</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>110</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204180DAL.html</link>
+    </Game>
+    <Game id="96">
+        <date>Mon, Apr 18, 2022</date>
+        <teamVisitor>Denver Nuggets</teamVisitor>
+        <pointsVisitor>106</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>126</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204180GSW.html</link>
+    </Game>
+    <Game id="97">
+        <date>Tue, Apr 19, 2022</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>105</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>115</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204190MIA.html</link>
+    </Game>
+    <Game id="98">
+        <date>Tue, Apr 19, 2022</date>
+        <teamVisitor>Minnesota Timberwolves</teamVisitor>
+        <pointsVisitor>96</pointsVisitor>
+        <teamLocal>Memphis Grizzlies</teamLocal>
+        <pointsLocal>124</pointsLocal>
+        <arena>FedEx Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204190MEM.html</link>
+    </Game>
+    <Game id="99">
+        <date>Tue, Apr 19, 2022</date>
+        <teamVisitor>New Orleans Pelicans</teamVisitor>
+        <pointsVisitor>125</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>114</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204190PHO.html</link>
+    </Game>
+    <Game id="100">
+        <date>Wed, Apr 20, 2022</date>
+        <teamVisitor>Brooklyn Nets</teamVisitor>
+        <pointsVisitor>107</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>114</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204200BOS.html</link>
+    </Game>
+    <Game id="101">
+        <date>Wed, Apr 20, 2022</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>104</pointsVisitor>
+        <teamLocal>Toronto Raptors</teamLocal>
+        <pointsLocal>101</pointsLocal>
+        <arena>Scotiabank Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204200TOR.html</link>
+    </Game>
+    <Game id="102">
+        <date>Wed, Apr 20, 2022</date>
+        <teamVisitor>Chicago Bulls</teamVisitor>
+        <pointsVisitor>114</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>110</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204200MIL.html</link>
+    </Game>
+    <Game id="103">
+        <date>Thu, Apr 21, 2022</date>
+        <teamVisitor>Memphis Grizzlies</teamVisitor>
+        <pointsVisitor>104</pointsVisitor>
+        <teamLocal>Minnesota Timberwolves</teamLocal>
+        <pointsLocal>95</pointsLocal>
+        <arena>Target Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204210MIN.html</link>
+    </Game>
+    <Game id="104">
+        <date>Thu, Apr 21, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>126</pointsVisitor>
+        <teamLocal>Utah Jazz</teamLocal>
+        <pointsLocal>118</pointsLocal>
+        <arena>Vivint Smart Home Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204210UTA.html</link>
+    </Game>
+    <Game id="105">
+        <date>Thu, Apr 21, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>118</pointsVisitor>
+        <teamLocal>Denver Nuggets</teamLocal>
+        <pointsLocal>113</pointsLocal>
+        <arena>Ball Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204210DEN.html</link>
+    </Game>
+    <Game id="106">
+        <date>Fri, Apr 22, 2022</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>110</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>111</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204220ATL.html</link>
+    </Game>
+    <Game id="107">
+        <date>Fri, Apr 22, 2022</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>111</pointsVisitor>
+        <teamLocal>Chicago Bulls</teamLocal>
+        <pointsLocal>81</pointsLocal>
+        <arena>United Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204220CHI.html</link>
+    </Game>
+    <Game id="108">
+        <date>Fri, Apr 22, 2022</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>114</pointsVisitor>
+        <teamLocal>New Orleans Pelicans</teamLocal>
+        <pointsLocal>111</pointsLocal>
+        <arena>Smoothie King Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204220NOP.html</link>
+    </Game>
+    <Game id="109">
+        <date>Sat, Apr 23, 2022</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>102</pointsVisitor>
+        <teamLocal>Toronto Raptors</teamLocal>
+        <pointsLocal>110</pointsLocal>
+        <arena>Scotiabank Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204230TOR.html</link>
+    </Game>
+    <Game id="110">
+        <date>Sat, Apr 23, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>99</pointsVisitor>
+        <teamLocal>Utah Jazz</teamLocal>
+        <pointsLocal>100</pointsLocal>
+        <arena>Vivint Smart Home Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204230UTA.html</link>
+    </Game>
+    <Game id="111">
+        <date>Sat, Apr 23, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Brooklyn Nets</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>Barclays Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204230BRK.html</link>
+    </Game>
+    <Game id="112">
+        <date>Sat, Apr 23, 2022</date>
+        <teamVisitor>Memphis Grizzlies</teamVisitor>
+        <pointsVisitor>118</pointsVisitor>
+        <teamLocal>Minnesota Timberwolves</teamLocal>
+        <pointsLocal>119</pointsLocal>
+        <arena>Target Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204230MIN.html</link>
+    </Game>
+    <Game id="113">
+        <date>Sun, Apr 24, 2022</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>119</pointsVisitor>
+        <teamLocal>Chicago Bulls</teamLocal>
+        <pointsLocal>95</pointsLocal>
+        <arena>United Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204240CHI.html</link>
+    </Game>
+    <Game id="114">
+        <date>Sun, Apr 24, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>121</pointsVisitor>
+        <teamLocal>Denver Nuggets</teamLocal>
+        <pointsLocal>126</pointsLocal>
+        <arena>Ball Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204240DEN.html</link>
+    </Game>
+    <Game id="115">
+        <date>Sun, Apr 24, 2022</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>110</pointsVisitor>
+        <teamLocal>Atlanta Hawks</teamLocal>
+        <pointsLocal>86</pointsLocal>
+        <arena>State Farm Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204240ATL.html</link>
+    </Game>
+    <Game id="116">
+        <date>Sun, Apr 24, 2022</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>103</pointsVisitor>
+        <teamLocal>New Orleans Pelicans</teamLocal>
+        <pointsLocal>118</pointsLocal>
+        <arena>Smoothie King Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204240NOP.html</link>
+    </Game>
+    <Game id="117">
+        <date>Mon, Apr 25, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>116</pointsVisitor>
+        <teamLocal>Brooklyn Nets</teamLocal>
+        <pointsLocal>112</pointsLocal>
+        <arena>Barclays Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204250BRK.html</link>
+    </Game>
+    <Game id="118">
+        <date>Mon, Apr 25, 2022</date>
+        <teamVisitor>Toronto Raptors</teamVisitor>
+        <pointsVisitor>103</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>88</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204250PHI.html</link>
+    </Game>
+    <Game id="119">
+        <date>Mon, Apr 25, 2022</date>
+        <teamVisitor>Utah Jazz</teamVisitor>
+        <pointsVisitor>77</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>102</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204250DAL.html</link>
+    </Game>
+    <Game id="120">
+        <date>Tue, Apr 26, 2022</date>
+        <teamVisitor>Atlanta Hawks</teamVisitor>
+        <pointsVisitor>94</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>97</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204260MIA.html</link>
+    </Game>
+    <Game id="121">
+        <date>Tue, Apr 26, 2022</date>
+        <teamVisitor>Minnesota Timberwolves</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Memphis Grizzlies</teamLocal>
+        <pointsLocal>111</pointsLocal>
+        <arena>FedEx Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204260MEM.html</link>
+    </Game>
+    <Game id="122">
+        <date>Tue, Apr 26, 2022</date>
+        <teamVisitor>New Orleans Pelicans</teamVisitor>
+        <pointsVisitor>97</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>112</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204260PHO.html</link>
+    </Game>
+    <Game id="123">
+        <date>Wed, Apr 27, 2022</date>
+        <teamVisitor>Chicago Bulls</teamVisitor>
+        <pointsVisitor>100</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>116</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204270MIL.html</link>
+    </Game>
+    <Game id="124">
+        <date>Wed, Apr 27, 2022</date>
+        <teamVisitor>Denver Nuggets</teamVisitor>
+        <pointsVisitor>98</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>102</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204270GSW.html</link>
+    </Game>
+    <Game id="125">
+        <date>Thu, Apr 28, 2022</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>132</pointsVisitor>
+        <teamLocal>Toronto Raptors</teamLocal>
+        <pointsLocal>97</pointsLocal>
+        <arena>Scotiabank Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204280TOR.html</link>
+    </Game>
+    <Game id="126">
+        <date>Thu, Apr 28, 2022</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>115</pointsVisitor>
+        <teamLocal>New Orleans Pelicans</teamLocal>
+        <pointsLocal>109</pointsLocal>
+        <arena>Smoothie King Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204280NOP.html</link>
+    </Game>
+    <Game id="127">
+        <date>Thu, Apr 28, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>98</pointsVisitor>
+        <teamLocal>Utah Jazz</teamLocal>
+        <pointsLocal>96</pointsLocal>
+        <arena>Vivint Smart Home Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204280UTA.html</link>
+    </Game>
+    <Game id="128">
+        <date>Fri, Apr 29, 2022</date>
+        <teamVisitor>Memphis Grizzlies</teamVisitor>
+        <pointsVisitor>114</pointsVisitor>
+        <teamLocal>Minnesota Timberwolves</teamLocal>
+        <pointsLocal>106</pointsLocal>
+        <arena>Target Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202204290MIN.html</link>
+    </Game>
+    <Game id="129">
+        <date>Sun, May 1, 2022</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>101</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>89</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205010BOS.html</link>
+    </Game>
+    <Game id="130">
+        <date>Sun, May 1, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>117</pointsVisitor>
+        <teamLocal>Memphis Grizzlies</teamLocal>
+        <pointsLocal>116</pointsLocal>
+        <arena>FedEx Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205010MEM.html</link>
+    </Game>
+    <Game id="131">
+        <date>Mon, May 2, 2022</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>92</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>106</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205020MIA.html</link>
+    </Game>
+    <Game id="132">
+        <date>Mon, May 2, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>114</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>121</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205020PHO.html</link>
+    </Game>
+    <Game id="133">
+        <date>Tue, May 3, 2022</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>86</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>109</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205030BOS.html</link>
+    </Game>
+    <Game id="134">
+        <date>Tue, May 3, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>101</pointsVisitor>
+        <teamLocal>Memphis Grizzlies</teamLocal>
+        <pointsLocal>106</pointsLocal>
+        <arena>FedEx Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205030MEM.html</link>
+    </Game>
+    <Game id="135">
+        <date>Wed, May 4, 2022</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>103</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>119</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205040MIA.html</link>
+    </Game>
+    <Game id="136">
+        <date>Wed, May 4, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>129</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205040PHO.html</link>
+    </Game>
+    <Game id="137">
+        <date>Fri, May 6, 2022</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>79</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>99</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205060PHI.html</link>
+    </Game>
+    <Game id="138">
+        <date>Fri, May 6, 2022</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>94</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205060DAL.html</link>
+    </Game>
+    <Game id="139">
+        <date>Sat, May 7, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>101</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205070MIL.html</link>
+    </Game>
+    <Game id="140">
+        <date>Sat, May 7, 2022</date>
+        <teamVisitor>Memphis Grizzlies</teamVisitor>
+        <pointsVisitor>112</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>142</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205070GSW.html</link>
+    </Game>
+    <Game id="141">
+        <date>Sun, May 8, 2022</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>101</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>111</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205080DAL.html</link>
+    </Game>
+    <Game id="142">
+        <date>Sun, May 8, 2022</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>108</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>116</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205080PHI.html</link>
+    </Game>
+    <Game id="143">
+        <date>Mon, May 9, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>116</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>108</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205090MIL.html</link>
+    </Game>
+    <Game id="144">
+        <date>Mon, May 9, 2022</date>
+        <teamVisitor>Memphis Grizzlies</teamVisitor>
+        <pointsVisitor>98</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>101</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205090GSW.html</link>
+    </Game>
+    <Game id="145">
+        <date>Tue, May 10, 2022</date>
+        <teamVisitor>Philadelphia 76ers</teamVisitor>
+        <pointsVisitor>85</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>120</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205100MIA.html</link>
+    </Game>
+    <Game id="146">
+        <date>Tue, May 10, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>80</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>110</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205100PHO.html</link>
+    </Game>
+    <Game id="147">
+        <date>Wed, May 11, 2022</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>110</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>107</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205110BOS.html</link>
+    </Game>
+    <Game id="148">
+        <date>Wed, May 11, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>95</pointsVisitor>
+        <teamLocal>Memphis Grizzlies</teamLocal>
+        <pointsLocal>134</pointsLocal>
+        <arena>FedEx Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205110MEM.html</link>
+    </Game>
+    <Game id="149">
+        <date>Thu, May 12, 2022</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>99</pointsVisitor>
+        <teamLocal>Philadelphia 76ers</teamLocal>
+        <pointsLocal>90</pointsLocal>
+        <arena>Wells Fargo Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205120PHI.html</link>
+    </Game>
+    <Game id="150">
+        <date>Thu, May 12, 2022</date>
+        <teamVisitor>Phoenix Suns</teamVisitor>
+        <pointsVisitor>86</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>113</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205120DAL.html</link>
+    </Game>
+    <Game id="151">
+        <date>Fri, May 13, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>108</pointsVisitor>
+        <teamLocal>Milwaukee Bucks</teamLocal>
+        <pointsLocal>95</pointsLocal>
+        <arena>Fiserv Forum</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205130MIL.html</link>
+    </Game>
+    <Game id="152">
+        <date>Fri, May 13, 2022</date>
+        <teamVisitor>Memphis Grizzlies</teamVisitor>
+        <pointsVisitor>96</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>110</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205130GSW.html</link>
+    </Game>
+    <Game id="153">
+        <date>Sun, May 15, 2022</date>
+        <teamVisitor>Milwaukee Bucks</teamVisitor>
+        <pointsVisitor>81</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>109</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205150BOS.html</link>
+    </Game>
+    <Game id="154">
+        <date>Sun, May 15, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>123</pointsVisitor>
+        <teamLocal>Phoenix Suns</teamLocal>
+        <pointsLocal>90</pointsLocal>
+        <arena>Phoenix Suns Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205150PHO.html</link>
+    </Game>
+    <Game id="155">
+        <date>Tue, May 17, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>107</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>118</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205170MIA.html</link>
+    </Game>
+    <Game id="156">
+        <date>Wed, May 18, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>87</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>112</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205180GSW.html</link>
+    </Game>
+    <Game id="157">
+        <date>Thu, May 19, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>127</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>102</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205190MIA.html</link>
+    </Game>
+    <Game id="158">
+        <date>Fri, May 20, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>117</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>126</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205200GSW.html</link>
+    </Game>
+    <Game id="159">
+        <date>Sat, May 21, 2022</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205210BOS.html</link>
+    </Game>
+    <Game id="160">
+        <date>Sun, May 22, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>100</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205220DAL.html</link>
+    </Game>
+    <Game id="161">
+        <date>Mon, May 23, 2022</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>82</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>102</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205230BOS.html</link>
+    </Game>
+    <Game id="162">
+        <date>Tue, May 24, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>109</pointsVisitor>
+        <teamLocal>Dallas Mavericks</teamLocal>
+        <pointsLocal>119</pointsLocal>
+        <arena>American Airlines Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205240DAL.html</link>
+    </Game>
+    <Game id="163">
+        <date>Wed, May 25, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>93</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>80</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205250MIA.html</link>
+    </Game>
+    <Game id="164">
+        <date>Thu, May 26, 2022</date>
+        <teamVisitor>Dallas Mavericks</teamVisitor>
+        <pointsVisitor>110</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>120</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205260GSW.html</link>
+    </Game>
+    <Game id="165">
+        <date>Fri, May 27, 2022</date>
+        <teamVisitor>Miami Heat</teamVisitor>
+        <pointsVisitor>111</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>103</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205270BOS.html</link>
+    </Game>
+    <Game id="166">
+        <date>Sun, May 29, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>100</pointsVisitor>
+        <teamLocal>Miami Heat</teamLocal>
+        <pointsLocal>96</pointsLocal>
+        <arena>FTX Arena</arena>
+        <link>https://www.basketball-reference.com/boxscores/202205290MIA.html</link>
+    </Game>
+    <Game id="167">
+        <date>Thu, Jun 2, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>120</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>108</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202206020GSW.html</link>
+    </Game>
+    <Game id="168">
+        <date>Sun, Jun 5, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>88</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>107</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202206050GSW.html</link>
+    </Game>
+    <Game id="169">
+        <date>Wed, Jun 8, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>100</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>116</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202206080BOS.html</link>
+    </Game>
+    <Game id="170">
+        <date>Fri, Jun 10, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>107</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>97</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202206100BOS.html</link>
+    </Game>
+    <Game id="171">
+        <date>Mon, Jun 13, 2022</date>
+        <teamVisitor>Boston Celtics</teamVisitor>
+        <pointsVisitor>94</pointsVisitor>
+        <teamLocal>Golden State Warriors</teamLocal>
+        <pointsLocal>104</pointsLocal>
+        <arena>Chase Center</arena>
+        <link>https://www.basketball-reference.com/boxscores/202206130GSW.html</link>
+    </Game>
+    <Game id="172">
+        <date>Thu, Jun 16, 2022</date>
+        <teamVisitor>Golden State Warriors</teamVisitor>
+        <pointsVisitor>103</pointsVisitor>
+        <teamLocal>Boston Celtics</teamLocal>
+        <pointsLocal>90</pointsLocal>
+        <arena>TD Garden</arena>
+        <link>https://www.basketball-reference.com/boxscores/202206160BOS.html</link>
+    </Game>
+</NBAGames>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NBATeams>
+    <Team>
+        <name>Atlanta Hawks</name>
+        <location>Atlanta, Georgia</location>
+        <games>5800</games>
+        <wins>2864</wins>
+        <loses>2936</loses>
+        <playoffAppearances>48</playoffAppearances>
+        <conferenceChampions>0</conferenceChampions>
+        <championships>1</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Boston Celtics</name>
+        <location>Boston, Massachusetts</location>
+        <games>5977</games>
+        <wins>3534</wins>
+        <loses>2443</loses>
+        <playoffAppearances>59</playoffAppearances>
+        <conferenceChampions>10</conferenceChampions>
+        <championships>17</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Brooklyn Nets</name>
+        <location>Brooklyn, New York</location>
+        <games>4476</games>
+        <wins>1967</wins>
+        <loses>2509</loses>
+        <playoffAppearances>30</playoffAppearances>
+        <conferenceChampions>2</conferenceChampions>
+        <championships>2</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Charlotte Hornets</name>
+        <location>Charlotte, North Carolina</location>
+        <games>2576</games>
+        <wins>1133</wins>
+        <loses>1443</loses>
+        <playoffAppearances>10</playoffAppearances>
+        <conferenceChampions>0</conferenceChampions>
+        <championships>0</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Chicago Bulls</name>
+        <location>Chicago, Illinois</location>
+        <games>4542</games>
+        <wins>2315</wins>
+        <loses>2227</loses>
+        <playoffAppearances>36</playoffAppearances>
+        <conferenceChampions>6</conferenceChampions>
+        <championships>6</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Cleveland Cavaliers</name>
+        <location>Cleveland, Ohio</location>
+        <games>4216</games>
+        <wins>1950</wins>
+        <loses>2266</loses>
+        <playoffAppearances>22</playoffAppearances>
+        <conferenceChampions>5</conferenceChampions>
+        <championships>1</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Dallas Mavericks</name>
+        <location>Dallas, Texas</location>
+        <games>3405</games>
+        <wins>1722</wins>
+        <loses>1683</loses>
+        <playoffAppearances>24</playoffAppearances>
+        <conferenceChampions>2</conferenceChampions>
+        <championships>1</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Denver Nuggets</name>
+        <location>Denver, Colorado</location>
+        <games>4475</games>
+        <wins>2273</wins>
+        <loses>2202</loses>
+        <playoffAppearances>37</playoffAppearances>
+        <conferenceChampions>0</conferenceChampions>
+        <championships>0</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Detroit Pistons</name>
+        <location>Detroit, Michigan</location>
+        <games>5863</games>
+        <wins>2803</wins>
+        <loses>3060</loses>
+        <playoffAppearances>42</playoffAppearances>
+        <conferenceChampions>5</conferenceChampions>
+        <championships>3</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Golden State Warriors</name>
+        <location>San Francisco, California</location>
+        <games>5966</games>
+        <wins>2893</wins>
+        <loses>3073</loses>
+        <playoffAppearances>36</playoffAppearances>
+        <conferenceChampions>7</conferenceChampions>
+        <championships>7</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Houston Rockets</name>
+        <location>Houston, Texas</location>
+        <games>4468</games>
+        <wins>2314</wins>
+        <loses>2154</loses>
+        <playoffAppearances>34</playoffAppearances>
+        <conferenceChampions>4</conferenceChampions>
+        <championships>2</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Indiana Pacers</name>
+        <location>Indianapolis, Indiana</location>
+        <games>4475</games>
+        <wins>2289</wins>
+        <loses>2186</loses>
+        <playoffAppearances>36</playoffAppearances>
+        <conferenceChampions>1</conferenceChampions>
+        <championships>3</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Los Angeles Clippers</name>
+        <location>Los Angeles, California</location>
+        <games>4224</games>
+        <wins>1763</wins>
+        <loses>2461</loses>
+        <playoffAppearances>16</playoffAppearances>
+        <conferenceChampions>0</conferenceChampions>
+        <championships>0</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Los Angeles Lakers</name>
+        <location>Los Angeles, California</location>
+        <games>5866</games>
+        <wins>3471</wins>
+        <loses>2395</loses>
+        <playoffAppearances>62</playoffAppearances>
+        <conferenceChampions>19</conferenceChampions>
+        <championships>17</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Memphis Grizzlies</name>
+        <location>Memphis, Tennessee</location>
+        <games>2173</games>
+        <wins>937</wins>
+        <loses>1236</loses>
+        <playoffAppearances>12</playoffAppearances>
+        <conferenceChampions>0</conferenceChampions>
+        <championships>0</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Miami Heat</name>
+        <location>Miami, Florida</location>
+        <games>2748</games>
+        <wins>1443</wins>
+        <loses>1305</loses>
+        <playoffAppearances>23</playoffAppearances>
+        <conferenceChampions>6</conferenceChampions>
+        <championships>3</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Milwaukee Bucks</name>
+        <location>Milwaukee, Wisconsin</location>
+        <games>4387</games>
+        <wins>2301</wins>
+        <loses>2086</loses>
+        <playoffAppearances>34</playoffAppearances>
+        <conferenceChampions>3</conferenceChampions>
+        <championships>2</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Minnesota Timberwolves</name>
+        <location>Minneapolis, Minnesota</location>
+        <games>2656</games>
+        <wins>1062</wins>
+        <loses>1594</loses>
+        <playoffAppearances>10</playoffAppearances>
+        <conferenceChampions>0</conferenceChampions>
+        <championships>0</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>New Orleans Pelicans</name>
+        <location>New Orleans, Louisiana</location>
+        <games>1630</games>
+        <wins>758</wins>
+        <loses>872</loses>
+        <playoffAppearances>8</playoffAppearances>
+        <conferenceChampions>0</conferenceChampions>
+        <championships>0</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>New York Knicks</name>
+        <location>New York, New York</location>
+        <games>5968</games>
+        <wins>2891</wins>
+        <loses>3077</loses>
+        <playoffAppearances>43</playoffAppearances>
+        <conferenceChampions>4</conferenceChampions>
+        <championships>2</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Oklahoma City Thunder</name>
+        <location>Oklahoma City, Oklahoma</location>
+        <games>4468</games>
+        <wins>2384</wins>
+        <loses>2084</loses>
+        <playoffAppearances>32</playoffAppearances>
+        <conferenceChampions>4</conferenceChampions>
+        <championships>1</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Orlando Magic</name>
+        <location>Orlando, Florida</location>
+        <games>2667</games>
+        <wins>1242</wins>
+        <loses>1425</loses>
+        <playoffAppearances>16</playoffAppearances>
+        <conferenceChampions>2</conferenceChampions>
+        <championships>0</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Philadelphia 76ers</name>
+        <location>Philadelphia, Pennsylvania</location>
+        <games>5803</games>
+        <wins>3014</wins>
+        <loses>2789</loses>
+        <playoffAppearances>52</playoffAppearances>
+        <conferenceChampions>5</conferenceChampions>
+        <championships>3</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Phoenix Suns</name>
+        <location>Phoenix, Arizona</location>
+        <games>4388</games>
+        <wins>2351</wins>
+        <loses>2037</loses>
+        <playoffAppearances>31</playoffAppearances>
+        <conferenceChampions>3</conferenceChampions>
+        <championships>0</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Portland Trail Blazers</name>
+        <location>Portland, Oregon</location>
+        <games>4224</games>
+        <wins>2252</wins>
+        <loses>1972</loses>
+        <playoffAppearances>37</playoffAppearances>
+        <conferenceChampions>3</conferenceChampions>
+        <championships>1</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Sacramento Kings</name>
+        <location>Sacramento, California</location>
+        <games>5866</games>
+        <wins>2668</wins>
+        <loses>3198</loses>
+        <playoffAppearances>29</playoffAppearances>
+        <conferenceChampions>0</conferenceChampions>
+        <championships>1</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>San Antonio Spurs</name>
+        <location>San Antonio, Texas</location>
+        <games>4473</games>
+        <wins>2647</wins>
+        <loses>1826</loses>
+        <playoffAppearances>47</playoffAppearances>
+        <conferenceChampions>6</conferenceChampions>
+        <championships>5</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Toronto Raptors</name>
+        <location>Toronto, Canada</location>
+        <games>2173</games>
+        <wins>1043</wins>
+        <loses>1130</loses>
+        <playoffAppearances>13</playoffAppearances>
+        <conferenceChampions>1</conferenceChampions>
+        <championships>1</championships>
+        <conference>WESTERN</conference>
+    </Team>
+    <Team>
+        <name>Utah Jazz</name>
+        <location>Salt Lake City, Utah</location>
+        <games>3897</games>
+        <wins>2124</wins>
+        <loses>1773</loses>
+        <playoffAppearances>31</playoffAppearances>
+        <conferenceChampions>2</conferenceChampions>
+        <championships>0</championships>
+        <conference>EASTERN</conference>
+    </Team>
+    <Team>
+        <name>Washington Wizards</name>
+        <location>Washington, District of Columbia</location>
+        <games>4950</games>
+        <wins>2233</wins>
+        <loses>2717</loses>
+        <playoffAppearances>30</playoffAppearances>
+        <conferenceChampions>4</conferenceChampions>
+        <championships>1</championships>
+        <conference>WESTERN</conference>
+    </Team>
+</NBATeams>
