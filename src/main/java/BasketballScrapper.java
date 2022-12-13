@@ -58,7 +58,6 @@ public class BasketballScrapper {
         getPlayers(listMenu.get("Players"));
         getSeasons(listMenu.get("Seasons"));
         getTeams(listMenu.get("Teams"));
-        auxDriver.quit();
     }
 
     /**
